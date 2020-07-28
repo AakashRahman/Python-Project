@@ -1,0 +1,1699 @@
+year,state,state_po,state_fips,state_cen,state_ic,office,candidate,party,writein,candidatevotes,totalvotes,version,notes
+2000,Alabama,AL,1,63,41,US President,"Bush, George W.",republican,FALSE,941173,1666272,20171015,NA
+2000,Alabama,AL,1,63,41,US President,"Gore, Al",democrat,FALSE,692611,1666272,20171015,NA
+2000,Alabama,AL,1,63,41,US President,,independent,FALSE,25896,1666272,20171015,NA
+2000,Alabama,AL,1,63,41,US President,"Browne, Harry",libertarian,FALSE,5893,1666272,20171015,NA
+2000,Alabama,AL,1,63,41,US President,,,TRUE,699,1666272,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Bush, George W.",republican,FALSE,167398,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Gore, Al",democrat,FALSE,79004,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Nader, Ralph",green,FALSE,28747,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,5192,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Browne, Harry",libertarian,FALSE,2636,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,,,TRUE,1068,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Hagelin, John",natural law,FALSE,919,285560,20171015,NA
+2000,Alaska,AK,2,94,81,US President,"Phillips, Howard",constitution party,FALSE,596,285560,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,"Bush, George W.",republican,FALSE,781652,1532016,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,"Gore, Al",democrat,FALSE,685341,1532016,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,"Nader, Ralph",green,FALSE,45645,1532016,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,12373,1532016,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,"L. Neil, Smith",libertarian,FALSE,5775,1532016,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,"Hagelin, John",natural law,FALSE,1120,1532016,20171015,NA
+2000,Arizona,AZ,4,86,61,US President,,,TRUE,110,1532016,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Bush, George W.",republican,FALSE,472940,921781,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Gore, Al",democrat,FALSE,422768,921781,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Nader, Ralph",green,FALSE,13421,921781,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,7358,921781,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Browne, Harry",libertarian,FALSE,2781,921781,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Phillips, Howard",constitution party,FALSE,1415,921781,20171015,NA
+2000,Arkansas,AR,5,71,42,US President,"Hagelin, John",natural law,FALSE,1098,921781,20171015,NA
+2000,California,CA,6,93,71,US President,"Gore, Al",democrat,FALSE,5861203,10965822,20171015,NA
+2000,California,CA,6,93,71,US President,"Bush, George W.",republican,FALSE,4567429,10965822,20171015,NA
+2000,California,CA,6,93,71,US President,"Nader, Ralph",green,FALSE,418707,10965822,20171015,NA
+2000,California,CA,6,93,71,US President,"Browne, Harry",libertarian,FALSE,45520,10965822,20171015,NA
+2000,California,CA,6,93,71,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,44987,10965822,20171015,NA
+2000,California,CA,6,93,71,US President,"Phillips, Howard",american independent party,FALSE,17042,10965822,20171015,NA
+2000,California,CA,6,93,71,US President,"Hagelin, John",natural law,FALSE,10934,10965822,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Bush, George W.",republican,FALSE,883748,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Gore, Al",democrat,FALSE,738227,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Nader, Ralph",green,FALSE,91434,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Browne, Harry",libertarian,FALSE,12799,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Hagelin, John",freedom,FALSE,10465,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Hagelin, John",natural law,FALSE,2240,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Phillips, Howard",constitution party,FALSE,1319,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"McReynolds, David",socialist,FALSE,712,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Harris, James",socialist workers,FALSE,216,1741368,20171015,NA
+2000,Colorado,CO,8,84,62,US President,"Dodge, Earl",prohibition,FALSE,208,1741368,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,"Gore, Al",democrat,FALSE,816015,1459525,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,"Bush, George W.",republican,FALSE,561094,1459525,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,"Nader, Ralph",green,FALSE,64452,1459525,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,"Phillips, Howard",concerned citizens,FALSE,9695,1459525,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,4731,1459525,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,"Browne, Harry",libertarian,FALSE,3484,1459525,20171015,NA
+2000,Connecticut,CT,9,16,1,US President,,,TRUE,54,1459525,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Gore, Al",democrat,FALSE,180068,327529,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Bush, George W.",republican,FALSE,137288,327529,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Nader, Ralph",green,FALSE,8307,327529,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,777,327529,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Browne, Harry",libertarian,FALSE,774,327529,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Phillips, Howard",constitution party,FALSE,208,327529,20171015,NA
+2000,Delaware,DE,10,51,11,US President,"Hagelin, John",natural law,FALSE,107,327529,20171015,NA
+2000,District of Columbia,DC,11,53,55,US President,"Gore, Al",democrat,FALSE,171923,201894,20171015,NA
+2000,District of Columbia,DC,11,53,55,US President,"Bush, George W.",republican,FALSE,18073,201894,20171015,NA
+2000,District of Columbia,DC,11,53,55,US President,"Nader, Ralph",green,FALSE,10576,201894,20171015,NA
+2000,District of Columbia,DC,11,53,55,US President,"Browne, Harry",libertarian,FALSE,669,201894,20171015,NA
+2000,District of Columbia,DC,11,53,55,US President,,,TRUE,539,201894,20171015,NA
+2000,District of Columbia,DC,11,53,55,US President,"Harris, James",socialist workers,FALSE,114,201894,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Bush, George W.",republican,FALSE,2912790,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Gore, Al",democrat,FALSE,2912253,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Nader, Ralph",green,FALSE,97488,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,17484,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Browne, Harry",libertarian,FALSE,16415,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Hagelin, John",natural law,FALSE,2281,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Moorehead, Monica",workers world,FALSE,1804,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Phillips, Howard",constitution party,FALSE,1371,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"McReynolds, David",socialist,FALSE,622,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,"Harris, James",socialist workers,FALSE,562,5963110,20171015,NA
+2000,Florida,FL,12,59,43,US President,,,TRUE,40,5963110,20171015,NA
+2000,Georgia,GA,13,58,44,US President,"Bush, George W.",republican,FALSE,1419720,2583208,20171015,NA
+2000,Georgia,GA,13,58,44,US President,"Gore, Al",democrat,FALSE,1116230,2583208,20171015,NA
+2000,Georgia,GA,13,58,44,US President,"Browne, Harry",libertarian,FALSE,36332,2583208,20171015,NA
+2000,Georgia,GA,13,58,44,US President,"Buchanan, Patrick """"Pat""""",independent,FALSE,10926,2583208,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Gore, Al",democrat,FALSE,205286,367951,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Bush, George W.",republican,FALSE,137845,367951,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Nader, Ralph",green,FALSE,21623,367951,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Browne, Harry",libertarian,FALSE,1477,367951,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,1071,367951,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Phillips, Howard",constitution party,FALSE,343,367951,20171015,NA
+2000,Hawaii,HI,15,95,82,US President,"Hagelin, John",natural law,FALSE,306,367951,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Bush, George W.",republican,FALSE,336937,501615,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Gore, Al",democrat,FALSE,138637,501615,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Nader, Ralph",green,TRUE,12292,501615,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,7615,501615,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Browne, Harry",libertarian,FALSE,3488,501615,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Phillips, Howard",constitution party,FALSE,1469,501615,20171015,NA
+2000,Idaho,ID,16,82,63,US President,"Hagelin, John",natural law,FALSE,1177,501615,20171015,NA
+2000,Illinois,IL,17,33,21,US President,"Gore, Al",democrat,FALSE,2589026,4742108,20171015,NA
+2000,Illinois,IL,17,33,21,US President,"Bush, George W.",republican,FALSE,2019421,4742108,20171015,NA
+2000,Illinois,IL,17,33,21,US President,"Nader, Ralph",green,FALSE,103759,4742108,20171015,NA
+2000,Illinois,IL,17,33,21,US President,,independent,FALSE,16106,4742108,20171015,NA
+2000,Illinois,IL,17,33,21,US President,"Browne, Harry",libertarian,FALSE,11623,4742108,20171015,NA
+2000,Illinois,IL,17,33,21,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2127,4742108,20171015,NA
+2000,Illinois,IL,17,33,21,US President,,,TRUE,46,4742108,20171015,NA
+2000,Indiana,IN,18,32,22,US President,"Bush, George W.",republican,FALSE,1245836,2199302,20171015,NA
+2000,Indiana,IN,18,32,22,US President,"Gore, Al",democrat,FALSE,901980,2199302,20171015,NA
+2000,Indiana,IN,18,32,22,US President,,,TRUE,18997,2199302,20171015,NA
+2000,Indiana,IN,18,32,22,US President,"Buchanan, Patrick """"Pat""""",independent,FALSE,16959,2199302,20171015,NA
+2000,Indiana,IN,18,32,22,US President,"Browne, Harry",libertarian,FALSE,15530,2199302,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Gore, Al",democrat,FALSE,638517,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Bush, George W.",republican,FALSE,634373,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,,independent,FALSE,37459,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Nader, Ralph",green,FALSE,29374,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,5731,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Browne, Harry",libertarian,FALSE,3209,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Hagelin, John",nominated by petition,FALSE,2281,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,Scattering,,FALSE,1168,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Phillips, Howard",constitution party,FALSE,613,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"Harris, James",socialist workers,FALSE,190,1353022,20171015,NA
+2000,Iowa,IA,19,42,31,US President,"McReynolds, David",socialist,FALSE,107,1353022,20171015,NA
+2000,Kansas,KS,20,47,32,US President,"Bush, George W.",republican,FALSE,622332,1072216,20171015,NA
+2000,Kansas,KS,20,47,32,US President,"Gore, Al",democrat,FALSE,399276,1072216,20171015,NA
+2000,Kansas,KS,20,47,32,US President,,independent,FALSE,37459,1072216,20171015,NA
+2000,Kansas,KS,20,47,32,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,7370,1072216,20171015,NA
+2000,Kansas,KS,20,47,32,US President,"Browne, Harry",libertarian,FALSE,4525,1072216,20171015,NA
+2000,Kansas,KS,20,47,32,US President,"Phillips, Howard",constitution party,FALSE,1254,1072216,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,"Bush, George W.",republican,FALSE,872520,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,"Gore, Al",democrat,FALSE,638923,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,"Nader, Ralph",green,FALSE,23118,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,4152,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,"Browne, Harry",libertarian,FALSE,2885,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,"Hagelin, John",natural law,FALSE,1513,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,,constitution party,FALSE,915,1544106,20171015,NA
+2000,Kentucky,KY,21,61,51,US President,,,TRUE,80,1544106,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Bush, George W.",republican,FALSE,927871,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Gore, Al",democrat,FALSE,792344,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Nader, Ralph",green,FALSE,20473,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,14356,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Phillips, Howard",constitution party,FALSE,5483,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Browne, Harry",libertarian,FALSE,2951,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Harris, James",socialist workers,FALSE,1103,1765656,20171015,NA
+2000,Louisiana,LA,22,72,45,US President,"Hagelin, John",natural law,FALSE,1075,1765656,20171015,NA
+2000,Maine,ME,23,11,2,US President,"Gore, Al",democrat,FALSE,319951,651817,20171015,NA
+2000,Maine,ME,23,11,2,US President,"Bush, George W.",republican,FALSE,286616,651817,20171015,NA
+2000,Maine,ME,23,11,2,US President,"Nader, Ralph",green,FALSE,37127,651817,20171015,NA
+2000,Maine,ME,23,11,2,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,4443,651817,20171015,NA
+2000,Maine,ME,23,11,2,US President,"Browne, Harry",libertarian,FALSE,3074,651817,20171015,NA
+2000,Maine,ME,23,11,2,US President,"Phillips, Howard",constitution party,FALSE,579,651817,20171015,NA
+2000,Maine,ME,23,11,2,US President,Other,,FALSE,27,651817,20171015,NA
+2000,Maryland,MD,24,52,52,US President,"Gore, Al",democrat,FALSE,1144008,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,"Bush, George W.",republican,FALSE,813827,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,"Nader, Ralph",green,FALSE,53768,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,"Browne, Harry",libertarian,FALSE,5310,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,4248,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,,,TRUE,1656,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,Other,,FALSE,1477,2025212,20171015,NA
+2000,Maryland,MD,24,52,52,US President,"Phillips, Howard",constitution party,FALSE,918,2025212,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,"Gore, Al",democrat,FALSE,1616487,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,"Bush, George W.",republican,FALSE,878502,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,"Nader, Ralph",green,FALSE,173564,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,Blank Vote/Scattering,,FALSE,31022,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,"Browne, Harry",libertarian,FALSE,16366,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,11149,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,Other,,FALSE,3990,2733964,20171015,NA
+2000,Massachusetts,MA,25,14,3,US President,"Hagelin, John",unenrolled,FALSE,2884,2733964,20171015,NA
+2000,Michigan,MI,26,34,23,US President,"Gore, Al",democrat,FALSE,2170418,4232501,20171015,NA
+2000,Michigan,MI,26,34,23,US President,"Bush, George W.",republican,FALSE,1953139,4232501,20171015,NA
+2000,Michigan,MI,26,34,23,US President,"Nader, Ralph",green,FALSE,84165,4232501,20171015,NA
+2000,Michigan,MI,26,34,23,US President,"Browne, Harry",libertarian,FALSE,16711,4232501,20171015,NA
+2000,Michigan,MI,26,34,23,US President,"Phillips, Howard",u.s. taxpayers party,FALSE,3791,4232501,20171015,NA
+2000,Michigan,MI,26,34,23,US President,"Hagelin, John",natural law,FALSE,2426,4232501,20171015,NA
+2000,Michigan,MI,26,34,23,US President,,,TRUE,1851,4232501,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Gore, Al",democratic-farmer-labor,FALSE,1168266,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Bush, George W.",republican,FALSE,1109659,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Nader, Ralph",green,FALSE,126696,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Buchanan, Patrick """"Pat""""",reform party minnesota,FALSE,22166,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Browne, Harry",libertarian,FALSE,5282,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Phillips, Howard",constitution party,FALSE,3272,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2294,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,"Harris, James",socialist workers,FALSE,1022,2438685,20171015,NA
+2000,Minnesota,MN,27,41,33,US President,,,TRUE,28,2438685,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,"Bush, George W.",republican,FALSE,572844,994184,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,"Gore, Al",democrat,FALSE,404614,994184,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,,independent,FALSE,8735,994184,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,"Phillips, Howard",constitution party,FALSE,3267,994184,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2265,994184,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,"Browne, Harry",libertarian,FALSE,2009,994184,20171015,NA
+2000,Mississippi,MS,28,64,46,US President,"Hagelin, John",natural law,FALSE,450,994184,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Bush, George W.",republican,FALSE,1189924,2359892,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Gore, Al",democrat,FALSE,1111138,2359892,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Nader, Ralph",green,FALSE,38515,2359892,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,9818,2359892,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Browne, Harry",libertarian,FALSE,7436,2359892,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Phillips, Howard",constitution party,FALSE,1957,2359892,20171015,NA
+2000,Missouri,MO,29,43,34,US President,"Hagelin, John",natural law,FALSE,1104,2359892,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Bush, George W.",republican,FALSE,240178,410986,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Gore, Al",democrat,FALSE,137126,410986,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Nader, Ralph",green,FALSE,24437,410986,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,5697,410986,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Browne, Harry",libertarian,FALSE,1718,410986,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Phillips, Howard",constitution party,FALSE,1155,410986,20171015,NA
+2000,Montana,MT,30,81,64,US President,"Hagelin, John",natural law,FALSE,675,410986,20171015,NA
+2000,Nebraska,NE,31,46,35,US President,"Bush, George W.",republican,FALSE,433862,697019,20171015,NA
+2000,Nebraska,NE,31,46,35,US President,"Gore, Al",democrat,FALSE,231780,697019,20171015,NA
+2000,Nebraska,NE,31,46,35,US President,"Nader, Ralph",green,FALSE,24540,697019,20171015,NA
+2000,Nebraska,NE,31,46,35,US President,,nominated by petition,FALSE,4114,697019,20171015,NA
+2000,Nebraska,NE,31,46,35,US President,"Browne, Harry",libertarian,FALSE,2245,697019,20171015,NA
+2000,Nebraska,NE,31,46,35,US President,,natural law,FALSE,478,967019,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Bush, George W.",republican,FALSE,301575,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Gore, Al",democrat,FALSE,279978,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Nader, Ralph",green,FALSE,15008,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Buchanan, Patrick """"Pat""""",citizens first,FALSE,4747,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,None Of These Candidates,,FALSE,3315,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Browne, Harry",libertarian,FALSE,3311,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Phillips, Howard",independent american,FALSE,621,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,"Hagelin, John",natural law,FALSE,415,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,Blank Vote,,FALSE,282,609426,20171015,NA
+2000,Nevada,NV,32,88,65,US President,Over Vote,,FALSE,174,609426,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,"Bush, George W.",republican,FALSE,273559,569081,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,"Gore, Al",democrat,FALSE,266348,569081,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,"Nader, Ralph",green,FALSE,22198,569081,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,"Browne, Harry",libertarian,FALSE,2757,569081,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,"Buchanan, Patrick """"Pat""""",independence,FALSE,2615,569081,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,,,TRUE,1276,569081,20171015,NA
+2000,New Hampshire,NH,33,12,4,US President,,constitution party,FALSE,328,569081,20171015,NA
+2000,New Jersey,NJ,34,22,12,US President,"Gore, Al",democrat,FALSE,1788850,3187226,20171015,NA
+2000,New Jersey,NJ,34,22,12,US President,"Bush, George W.",republican,FALSE,1284173,3187226,20171015,NA
+2000,New Jersey,NJ,34,22,12,US President,,independent,FALSE,114203,3187226,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Gore, Al",democrat,FALSE,286783,598605,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Bush, George W.",republican,FALSE,286417,598605,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Nader, Ralph",green,FALSE,21251,598605,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Browne, Harry",libertarian,FALSE,2058,598605,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,1392,598605,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Hagelin, John",natural law,FALSE,361,598605,20171015,NA
+2000,New Mexico,NM,35,85,66,US President,"Phillips, Howard",constitution party,FALSE,343,598605,20171015,NA
+2000,New York,NY,36,21,13,US President,"Gore, Al",democrat,FALSE,3942215,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Bush, George W.",republican,FALSE,2258577,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Nader, Ralph",green,FALSE,244030,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Bush, George W.",conservative,FALSE,144797,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,Blank Vote/Scattering,,FALSE,138216,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Gore, Al",working families,FALSE,88395,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Gore, Al",liberal party,FALSE,77087,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Buchanan, Patrick """"Pat""""",right-to-life,FALSE,25175,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Hagelin, John",independence,FALSE,24361,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Browne, Harry",libertarian,FALSE,7649,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,6424,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Harris, James",socialist workers,FALSE,1789,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,"Phillips, Howard",constitution party,FALSE,1498,6960215,20171015,NA
+2000,New York,NY,36,21,13,US President,,socialist,TRUE,2,6960215,20171015,NA
+2000,North Carolina,NC,37,56,47,US President,"Bush, George W.",republican,FALSE,1631163,2914990,20171015,NA
+2000,North Carolina,NC,37,56,47,US President,"Gore, Al",democrat,FALSE,1257692,2914990,20171015,NA
+2000,North Carolina,NC,37,56,47,US President,"Browne, Harry",libertarian,FALSE,13891,2914990,20171015,NA
+2000,North Carolina,NC,37,56,47,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,8874,2914990,20171015,NA
+2000,North Carolina,NC,37,56,47,US President,Not Designated,socialist,FALSE,3370,2914990,20171015,NA
+2000,North Dakota,ND,38,44,36,US President,"Bush, George W.",republican,FALSE,174852,288256,20171015,NA
+2000,North Dakota,ND,38,44,36,US President,"Gore, Al",democrat,FALSE,95284,288256,20171015,NA
+2000,North Dakota,ND,38,44,36,US President,,independent,FALSE,10459,288256,20171015,NA
+2000,North Dakota,ND,38,44,36,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,7288,288256,20171015,NA
+2000,North Dakota,ND,38,44,36,US President,"Phillips, Howard",constitution party,FALSE,373,288256,20171015,NA
+2000,Ohio,OH,39,31,24,US President,"Bush, George W.",republican,FALSE,2350363,4701998,20171015,NA
+2000,Ohio,OH,39,31,24,US President,"Gore, Al",democrat,FALSE,2183628,4701998,20171015,NA
+2000,Ohio,OH,39,31,24,US President,Not Designated,,FALSE,148353,4701998,20171015,NA
+2000,Ohio,OH,39,31,24,US President,"Browne, Harry",libertarian,FALSE,13473,4701998,20171015,NA
+2000,Ohio,OH,39,31,24,US President,"Hagelin, John",natural law,FALSE,6181,4701998,20171015,NA
+2000,Oklahoma,OK,40,73,53,US President,"Bush, George W.",republican,FALSE,744337,1234229,20171015,NA
+2000,Oklahoma,OK,40,73,53,US President,"Gore, Al",democrat,FALSE,474276,1234229,20171015,NA
+2000,Oklahoma,OK,40,73,53,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,9014,1234229,20171015,NA
+2000,Oklahoma,OK,40,73,53,US President,"Browne, Harry",libertarian,FALSE,6602,1234229,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Gore, Al",democrat,FALSE,720342,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Bush, George W.",republican,FALSE,713577,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Nader, Ralph",green,FALSE,77357,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Browne, Harry",libertarian,FALSE,7447,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Buchanan, Patrick """"Pat""""",independent,FALSE,7063,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,Other,,FALSE,3401,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2574,1533950,20171015,NA
+2000,Oregon,OR,41,92,72,US President,"Phillips, Howard",constitution party,FALSE,2189,1533950,20171015,NA
+2000,Pennsylvania,PA,42,23,14,US President,"Gore, Al",democrat,FALSE,2485967,4912185,20171015,NA
+2000,Pennsylvania,PA,42,23,14,US President,"Bush, George W.",republican,FALSE,2281127,4912185,20171015,NA
+2000,Pennsylvania,PA,42,23,14,US President,"Nader, Ralph",green,FALSE,103392,4912185,20171015,NA
+2000,Pennsylvania,PA,42,23,14,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,16023,4912185,20171015,NA
+2000,Pennsylvania,PA,42,23,14,US President,"Phillips, Howard",constitution party,FALSE,14428,4912185,20171015,NA
+2000,Pennsylvania,PA,42,23,14,US President,"Browne, Harry",libertarian,FALSE,11248,4912185,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Gore, Al",democrat,FALSE,249508,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Bush, George W.",republican,FALSE,130555,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Nader, Ralph",green,FALSE,25052,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2273,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Browne, Harry",libertarian,FALSE,742,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,,,TRUE,329,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Hagelin, John",natural law,FALSE,271,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Moorehead, Monica",workers world,FALSE,199,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,"Phillips, Howard",constitution party,FALSE,97,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,,socialist,FALSE,52,409112,20171015,NA
+2000,Rhode Island,RI,44,15,5,US President,,socialist workers,FALSE,34,409112,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,"Bush, George W.",republican,FALSE,786892,1383902,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,"Gore, Al",democrat,FALSE,566037,1383902,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,"Nader, Ralph",united citizens,FALSE,20279,1383902,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,"Browne, Harry",libertarian,FALSE,4760,1383902,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,3309,1383902,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,,constitution party,FALSE,1682,1383902,20171015,NA
+2000,South Carolina,SC,45,57,48,US President,"Hagelin, John",natural law,FALSE,943,1383902,20171015,NA
+2000,South Dakota,SD,46,45,37,US President,"Bush, George W.",republican,FALSE,190700,316269,20171015,NA
+2000,South Dakota,SD,46,45,37,US President,"Gore, Al",democrat,FALSE,118804,316269,20171015,NA
+2000,South Dakota,SD,46,45,37,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,3322,316269,20171015,NA
+2000,South Dakota,SD,46,45,37,US President,"Phillips, Howard",independent,FALSE,1781,316269,20171015,NA
+2000,South Dakota,SD,46,45,37,US President,"Browne, Harry",libertarian,FALSE,1662,316269,20171015,NA
+2000,Tennessee,TN,47,62,54,US President,"Bush, George W.",republican,FALSE,1061949,2076181,20171015,NA
+2000,Tennessee,TN,47,62,54,US President,"Gore, Al",democrat,FALSE,981720,2076181,20171015,NA
+2000,Tennessee,TN,47,62,54,US President,,independent,FALSE,32084,2076181,20171015,NA
+2000,Tennessee,TN,47,62,54,US President,,,TRUE,428,2076181,20171015,NA
+2000,Texas,TX,48,74,49,US President,"Bush, George W.",republican,FALSE,3799639,6407637,20171015,NA
+2000,Texas,TX,48,74,49,US President,"Gore, Al",democrat,FALSE,2433746,6407637,20171015,NA
+2000,Texas,TX,48,74,49,US President,"Nader, Ralph",green,FALSE,137994,6407637,20171015,NA
+2000,Texas,TX,48,74,49,US President,"Browne, Harry",libertarian,FALSE,23160,6407637,20171015,NA
+2000,Texas,TX,48,74,49,US President,,independent,FALSE,12394,6407637,20171015,NA
+2000,Texas,TX,48,74,49,US President,,,TRUE,704,6407637,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Bush, George W.",republican,FALSE,515096,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Gore, Al",democrat,FALSE,203053,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Nader, Ralph",green,FALSE,35850,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,9319,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Browne, Harry",libertarian,FALSE,3616,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Phillips, Howard",independent american,FALSE,2709,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Hagelin, John",natural law,FALSE,763,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,"Harris, James",socialist workers,FALSE,186,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,,no party affiliation,FALSE,161,770754,20171015,NA
+2000,Utah,UT,49,87,67,US President,,,TRUE,1,770754,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Gore, Al",democrat,FALSE,149022,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Bush, George W.",republican,FALSE,119775,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Nader, Ralph",progressive/green,FALSE,20374,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2192,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Dennis """"Denny"""", Lane",vermont grassroots,FALSE,1044,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Browne, Harry",libertarian,FALSE,784,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,,,TRUE,514,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Hagelin, John",natural law,FALSE,219,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"McReynolds, David",liberty union party,FALSE,161,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Phillips, Howard",constitution party,FALSE,153,294308,20171015,NA
+2000,Vermont,VT,50,13,6,US President,"Harris, James",socialist workers,FALSE,70,294308,20171015,NA
+2000,Virginia,VA,51,54,40,US President,"Bush, George W.",republican,FALSE,1437490,2739447,20171015,NA
+2000,Virginia,VA,51,54,40,US President,"Gore, Al",democrat,FALSE,1217290,2739447,20171015,NA
+2000,Virginia,VA,51,54,40,US President,"Nader, Ralph",green,FALSE,59398,2739447,20171015,NA
+2000,Virginia,VA,51,54,40,US President,"Browne, Harry",libertarian,FALSE,15198,2739447,20171015,NA
+2000,Virginia,VA,51,54,40,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,5455,2739447,20171015,NA
+2000,Virginia,VA,51,54,40,US President,,,TRUE,2807,2739447,20171015,NA
+2000,Virginia,VA,51,54,40,US President,"Phillips, Howard",conservative,FALSE,1809,2739447,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Gore, Al",democrat,FALSE,1247652,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Bush, George W.",republican,FALSE,1108864,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Nader, Ralph",green,FALSE,103002,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Browne, Harry",libertarian,FALSE,13135,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Buchanan, Patrick """"Pat""""",freedom,FALSE,7171,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Hagelin, John",natural law,FALSE,2927,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Phillips, Howard",constitution party,FALSE,1989,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Moorehead, Monica",workers world,FALSE,1729,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"McReynolds, David",socialist,FALSE,660,2487433,20171015,NA
+2000,Washington,WA,53,91,73,US President,"Harris, James",socialist workers,FALSE,304,2487433,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,"Bush, George W.",republican,FALSE,336475,648124,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,"Gore, Al",democrat,FALSE,295497,648124,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,"Nader, Ralph",green,FALSE,10680,648124,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,3169,648124,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,"Browne, Harry",libertarian,FALSE,1912,648124,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,"Hagelin, John",natural law,FALSE,367,648124,20171015,NA
+2000,West Virginia,WV,54,55,56,US President,,,TRUE,24,648124,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,"Gore, Al",democrat,FALSE,1242987,2598607,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,"Bush, George W.",republican,FALSE,1237279,2598607,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,"Nader, Ralph",green,FALSE,94070,2598607,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,,independent,FALSE,13693,2598607,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,"Browne, Harry",libertarian,FALSE,6640,2598607,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,,constitution party,FALSE,2042,2598607,20171015,NA
+2000,Wisconsin,WI,55,35,25,US President,Scattering,,FALSE,1896,2598607,20171015,NA
+2000,Wyoming,WY,56,83,68,US President,"Bush, George W.",republican,FALSE,147947,213726,20171015,NA
+2000,Wyoming,WY,56,83,68,US President,"Gore, Al",democrat,FALSE,60481,213726,20171015,NA
+2000,Wyoming,WY,56,83,68,US President,"Buchanan, Patrick """"Pat""""",reform party,FALSE,2724,213726,20171015,NA
+2000,Wyoming,WY,56,83,68,US President,"Browne, Harry",libertarian,FALSE,1443,213726,20171015,NA
+2000,Wyoming,WY,56,83,68,US President,"Phillips, Howard",independent,FALSE,720,213726,20171015,NA
+2000,Wyoming,WY,56,83,68,US President,"Hagelin, John",natural law,FALSE,411,213726,20171015,NA
+2004,Alabama,AL,1,63,41,US President,"Bush, George W.",republican,FALSE,1176394,1883415,20171015,NA
+2004,Alabama,AL,1,63,41,US President,"Kerry, John",democrat,FALSE,693933,1883415,20171015,NA
+2004,Alabama,AL,1,63,41,US President,Other,independent,FALSE,12190,1883415,20171015,NA
+2004,Alabama,AL,1,63,41,US President,Other,,TRUE,898,1883415,20171015,NA
+2004,Alaska,AK,2,94,81,US President,"Bush, George W.",republican,FALSE,190889,312598,20171015,NA
+2004,Alaska,AK,2,94,81,US President,"Kerry, John",democrat,FALSE,111025,312598,20171015,NA
+2004,Alaska,AK,2,94,81,US President,"Nader, Ralph",populist,FALSE,5069,312598,20171015,NA
+2004,Alaska,AK,2,94,81,US President,"Peroutka, Michael",alaskan independence party,FALSE,2092,312598,20171015,NA
+2004,Alaska,AK,2,94,81,US President,"Badnarik, Michael",libertarian,FALSE,1675,312598,20171015,NA
+2004,Alaska,AK,2,94,81,US President,"Cobb, David",green,FALSE,1058,312598,20171015,NA
+2004,Alaska,AK,2,94,81,US President,Other,,TRUE,790,312598,20171015,NA
+2004,Arizona,AZ,4,86,61,US President,"Bush, George W.",republican,FALSE,1104294,2012585,20171015,NA
+2004,Arizona,AZ,4,86,61,US President,"Kerry, John",democrat,FALSE,893524,2012585,20171015,NA
+2004,Arizona,AZ,4,86,61,US President,"Badnarik, Michael",libertarian,FALSE,11856,2012585,20171015,NA
+2004,Arizona,AZ,4,86,61,US President,Other,,TRUE,2911,2012585,20171015,NA
+2004,Arkansas,AR,5,71,42,US President,"Bush, George W.",republican,FALSE,572898,1054945,20171015,NA
+2004,Arkansas,AR,5,71,42,US President,"Kerry, John",democrat,FALSE,469953,1054945,20171015,NA
+2004,Arkansas,AR,5,71,42,US President,"Nader, Ralph",populist,FALSE,6171,1054945,20171015,NA
+2004,Arkansas,AR,5,71,42,US President,"Badnarik, Michael",libertarian,FALSE,2352,1054945,20171015,NA
+2004,Arkansas,AR,5,71,42,US President,"Peroutka, Michael",constitution party,FALSE,2083,1054945,20171015,NA
+2004,Arkansas,AR,5,71,42,US President,"Cobb, David",green,FALSE,1488,1054945,20171015,NA
+2004,California,CA,6,93,71,US President,"Kerry, John",democrat,FALSE,6745485,12421353,20171015,NA
+2004,California,CA,6,93,71,US President,"Bush, George W.",republican,FALSE,5509826,12421353,20171015,NA
+2004,California,CA,6,93,71,US President,"Badnarik, Michael",libertarian,FALSE,50165,12421353,20171015,NA
+2004,California,CA,6,93,71,US President,"Cobb, David",green,FALSE,40771,12421353,20171015,NA
+2004,California,CA,6,93,71,US President,"Peltier, Leonard",peace & freedom,FALSE,27607,12421353,20171015,NA
+2004,California,CA,6,93,71,US President,"Peroutka, Michael",american independent party,FALSE,26645,12421353,20171015,NA
+2004,California,CA,6,93,71,US President,Other,,TRUE,20854,12421353,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Bush, George W.",republican,FALSE,1101255,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Kerry, John",democrat,FALSE,1001732,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Nader, Ralph",reform party,FALSE,12718,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Badnarik, Michael",libertarian,FALSE,7664,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Peroutka, Michael",american constitution party,FALSE,2562,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Cobb, David",green,FALSE,1591,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Andress, Stanford",unaffiliated,FALSE,804,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Amondson, Gene",concerns of people,FALSE,378,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Van Auken, Bill",socialist equality party,FALSE,329,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Calero, Roger",socialist workers,FALSE,241,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Brown, Walt",socialist,FALSE,216,2129630,20171015,NA
+2004,Colorado,CO,8,84,62,US President,"Dodge, Earl",prohibition,FALSE,140,2129630,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Kerry, John",democrat,FALSE,857488,1578769,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Bush, George W.",republican,FALSE,693826,1578769,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Nader, Ralph",petitioning candidate,FALSE,12969,1578769,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Cobb, David",green,FALSE,9564,1578769,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Badnarik, Michael",libertarian,FALSE,3367,1578769,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Peroutka, Michael",concerned citizens,FALSE,1543,1578769,20171015,NA
+2004,Connecticut,CT,9,16,1,US President,"Calero, Roger",socialist workers,TRUE,12,1578769,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Kerry, John",democrat,FALSE,200152,375190,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Bush, George W.",republican,FALSE,171660,375190,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Nader, Ralph",independent,FALSE,2153,375190,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Badnarik, Michael",libertarian,FALSE,586,375190,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Peroutka, Michael",constitution party,FALSE,289,375190,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Cobb, David",green,FALSE,250,375190,20171015,NA
+2004,Delaware,DE,10,51,11,US President,"Brown, Walt",natural law,FALSE,100,375190,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,"Kerry, John",democrat,FALSE,202970,227586,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,"Bush, George W.",republican,FALSE,21256,227586,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,"Nader, Ralph",independent,FALSE,1485,227586,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,"Cobb, David",d.c. statehood green,FALSE,737,227586,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,Others,,TRUE,506,227586,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,"Badnarik, Michael",libertarian,FALSE,502,227586,20171015,NA
+2004,District of Columbia,DC,11,53,55,US President,"Calero, Roger",socialist workers,FALSE,130,227586,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Bush, George W.",republican,FALSE,3964522,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Kerry, John",democrat,FALSE,3583544,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Nader, Ralph",reform party,FALSE,32971,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Badnarik, Michael",libertarian,FALSE,11996,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Peroutka, Michael",constitution party of florida,FALSE,6626,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Cobb, David",green,FALSE,3917,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Brown, Walt",socialist party of florida,FALSE,3502,7609810,20171015,NA
+2004,Florida,FL,12,59,43,US President,"Calero, Roger",socialist workers,FALSE,2732,7609810,20171015,NA
+2004,Georgia,GA,13,58,44,US President,"Bush, George W.",republican,FALSE,1914254,3301875,20171015,NA
+2004,Georgia,GA,13,58,44,US President,"Kerry, John",democrat,FALSE,1366149,3301875,20171015,NA
+2004,Georgia,GA,13,58,44,US President,"Badnarik, Michael",libertarian,FALSE,18387,3301875,20171015,NA
+2004,Georgia,GA,13,58,44,US President,Other,,TRUE,3085,3301875,20171015,NA
+2004,Hawaii,HI,15,95,82,US President,"Kerry, John",democrat,FALSE,231708,429013,20171015,NA
+2004,Hawaii,HI,15,95,82,US President,"Bush, George W.",republican,FALSE,194191,429013,20171015,NA
+2004,Hawaii,HI,15,95,82,US President,"Cobb, David",green,FALSE,1737,429013,20171015,NA
+2004,Hawaii,HI,15,95,82,US President,"Badnarik, Michael",libertarian,FALSE,1377,429013,20171015,NA
+2004,Idaho,ID,16,82,63,US President,"Bush, George W.",republican,FALSE,409235,598376,20171015,NA
+2004,Idaho,ID,16,82,63,US President,"Kerry, John",democrat,FALSE,181098,598376,20171015,NA
+2004,Idaho,ID,16,82,63,US President,"Badnarik, Michael",libertarian,FALSE,3844,598376,20171015,NA
+2004,Idaho,ID,16,82,63,US President,"Peroutka, Michael",constitution party,FALSE,3084,598376,20171015,NA
+2004,Idaho,ID,16,82,63,US President,"Nader, Ralph",independent,FALSE,1115,598376,20171015,NA
+2004,Illinois,IL,17,33,21,US President,"Kerry, John",democrat,FALSE,2891550,5274322,20171015,NA
+2004,Illinois,IL,17,33,21,US President,"Bush, George W.",republican,FALSE,2345946,5274322,20171015,NA
+2004,Illinois,IL,17,33,21,US President,"Badnarik, Michael",libertarian,FALSE,32442,5274322,20171015,NA
+2004,Illinois,IL,17,33,21,US President,Other,,TRUE,4384,5274322,20171015,NA
+2004,Indiana,IN,18,32,22,US President,"Bush, George W.",republican,FALSE,1479438,2468002,20171015,NA
+2004,Indiana,IN,18,32,22,US President,"Kerry, John",democrat,FALSE,969011,2468002,20171015,NA
+2004,Indiana,IN,18,32,22,US President,"Badnarik, Michael",libertarian,FALSE,18058,2468002,20171015,NA
+2004,Indiana,IN,18,32,22,US President,Other,,TRUE,1495,2468002,20171015,NA
+2004,Iowa,IA,19,42,31,US President,"Bush, George W.",republican,FALSE,751957,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,"Kerry, John",democrat,FALSE,741898,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,Other,,FALSE,6149,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,"Badnarik, Michael",libertarian,FALSE,2992,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,"Peroutka, Michael",constitution party,FALSE,1304,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,"Cobb, David",green,FALSE,1141,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,Other,,TRUE,1094,1506908,20171015,NA
+2004,Iowa,IA,19,42,31,US President,"Calero, Roger",socialist workers,FALSE,373,1506908,20171015,NA
+2004,Kansas,KS,20,47,32,US President,"Bush, George W.",republican,FALSE,736456,1187756,20171015,NA
+2004,Kansas,KS,20,47,32,US President,"Kerry, John",democrat,FALSE,434993,1187756,20171015,NA
+2004,Kansas,KS,20,47,32,US President,"Nader, Ralph",reform party,FALSE,9348,1187756,20171015,NA
+2004,Kansas,KS,20,47,32,US President,"Badnarik, Michael",libertarian,FALSE,4013,1187756,20171015,NA
+2004,Kansas,KS,20,47,32,US President,"Peroutka, Michael",independent,FALSE,2899,1187756,20171015,NA
+2004,Kansas,KS,20,47,32,US President,Other,,TRUE,47,1187756,20171015,NA
+2004,Kentucky,KY,21,61,51,US President,"Bush, George W.",republican,FALSE,1069439,1795882,20171015,NA
+2004,Kentucky,KY,21,61,51,US President,"Kerry, John",democrat,FALSE,712733,1795882,20171015,NA
+2004,Kentucky,KY,21,61,51,US President,"Nader, Ralph",independent,FALSE,8856,1795882,20171015,NA
+2004,Kentucky,KY,21,61,51,US President,"Badnarik, Michael",libertarian,FALSE,2619,1795882,20171015,NA
+2004,Kentucky,KY,21,61,51,US President,"Peroutka, Michael",constitution party,FALSE,2213,1795882,20171015,NA
+2004,Kentucky,KY,21,61,51,US President,Other,,TRUE,22,1795882,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Bush, George W.",republican,FALSE,1102169,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Kerry, John",democrat,FALSE,820299,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Nader, Ralph",independent,FALSE,7032,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Peroutka, Michael",constitution party,FALSE,5203,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Badnarik, Michael",libertarian,FALSE,2781,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Brown, Walt",protecting working families,FALSE,1795,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Amondson, Gene",prohibition,FALSE,1566,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Cobb, David",green,FALSE,1276,1943106,20171015,NA
+2004,Louisiana,LA,22,72,45,US President,"Calero, Roger",socialist,FALSE,985,1943106,20171015,NA
+2004,Maine,ME,23,11,2,US President,"Kerry, John",democrat,FALSE,396842,740752,20171015,NA
+2004,Maine,ME,23,11,2,US President,"Bush, George W.",republican,FALSE,330201,740752,20171015,NA
+2004,Maine,ME,23,11,2,US President,"The Better Life,",independent,FALSE,8069,740752,20171015,NA
+2004,Maine,ME,23,11,2,US President,"Cobb, David",green,FALSE,2936,740752,20171015,NA
+2004,Maine,ME,23,11,2,US President,"Badnarik, Michael",libertarian,FALSE,1965,740752,20171015,NA
+2004,Maine,ME,23,11,2,US President,"Peroutka, Michael",constitution party,FALSE,735,740752,20171015,NA
+2004,Maine,ME,23,11,2,US President,Blank Vote/Scattering,,FALSE,4,740752,20171015,NA
+2004,Maryland,MD,24,52,52,US President,"Kerry, John",democrat,FALSE,1334493,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,"Bush, George W.",republican,FALSE,1024703,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,"Nader, Ralph",populist,FALSE,11854,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,"Badnarik, Michael",libertarian,FALSE,6094,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,"Cobb, David",green,FALSE,3632,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,"Peroutka, Michael",constitution party,FALSE,3421,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,Other,unaffiliated,TRUE,34,2384238,20171015,NA
+2004,Maryland,MD,24,52,52,US President,Other,democrat,TRUE,7,2384238,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,"Kerry, John",democrat,FALSE,1803800,2927455,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,"Bush, George W.",republican,FALSE,1071109,2927455,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,Blank Vote/Scattering,,FALSE,15067,2927455,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,"Badnarik, Michael",libertarian,FALSE,15022,2927455,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,"Cobb, David",green-rainbow,FALSE,10623,2927455,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,Other,,FALSE,7028,2927455,20171015,NA
+2004,Massachusetts,MA,25,14,3,US President,"Nader, Ralph",independent,TRUE,4806,2927455,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Kerry, John",democrat,FALSE,2479183,4839252,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Bush, George W.",republican,FALSE,2313746,4839252,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Nader, Ralph",no party affiliation,FALSE,24035,4839252,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Badnarik, Michael",libertarian,FALSE,10552,4839252,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Cobb, David",green,FALSE,5325,4839252,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Peroutka, Michael",u.s. taxpayers party,FALSE,4980,4839252,20171015,NA
+2004,Michigan,MI,26,34,23,US President,"Brown, Walt",natural law,FALSE,1431,4839252,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Kerry, John",democratic-farmer-labor,FALSE,1445014,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Bush, George W.",republican,FALSE,1346695,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Nader, Ralph",better life,FALSE,18683,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Badnarik, Michael",libertarian,FALSE,4639,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Cobb, David",green,FALSE,4408,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Peroutka, Michael",constitution party,FALSE,3074,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,Other,,TRUE,2532,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Harens, Thomas",christian freedom party,FALSE,2387,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Van Auken, Bill",socialist equality party,FALSE,539,2828387,20171015,NA
+2004,Minnesota,MN,27,41,33,US President,"Calero, Roger",socialist workers,FALSE,416,2828387,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Bush, George W.",republican,FALSE,672660,1139824,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Kerry, John",democrat,FALSE,457766,1139824,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Nader, Ralph",reform party,FALSE,3175,1139824,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Badnarik, Michael",libertarian,FALSE,1793,1139824,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Peroutka, Michael",constitution party,FALSE,1758,1139824,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Calero, Roger",independent,FALSE,1599,1139824,20171015,NA
+2004,Mississippi,MS,28,64,46,US President,"Cobb, David",green,FALSE,1073,1139824,20171015,NA
+2004,Missouri,MO,29,43,34,US President,"Bush, George W.",republican,FALSE,1455713,2731364,20171015,NA
+2004,Missouri,MO,29,43,34,US President,"Kerry, John",democrat,FALSE,1259171,2731364,20171015,NA
+2004,Missouri,MO,29,43,34,US President,"Badnarik, Michael",libertarian,FALSE,9831,2731364,20171015,NA
+2004,Missouri,MO,29,43,34,US President,"Peroutka, Michael",constitution party,FALSE,5355,2731364,20171015,NA
+2004,Missouri,MO,29,43,34,US President,"Nader, Ralph",independent,TRUE,1294,2731364,20171015,NA
+2004,Montana,MT,30,81,64,US President,"Bush, George W.",republican,FALSE,266063,450434,20171015,NA
+2004,Montana,MT,30,81,64,US President,"Kerry, John",democrat,FALSE,173710,450434,20171015,NA
+2004,Montana,MT,30,81,64,US President,"Nader, Ralph",independent,FALSE,6168,450434,20171015,NA
+2004,Montana,MT,30,81,64,US President,"Peroutka, Michael",constitution party,FALSE,1764,450434,20171015,NA
+2004,Montana,MT,30,81,64,US President,"Badnarik, Michael",libertarian,FALSE,1733,450434,20171015,NA
+2004,Montana,MT,30,81,64,US President,"Cobb, David",green,FALSE,996,450434,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,"Bush, George W.",republican,FALSE,512814,778186,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,"Kerry, John",democrat,FALSE,254328,778186,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,"Nader, Ralph",reform party,FALSE,5780,778186,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,"Badnarik, Michael",libertarian,FALSE,2041,778186,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,Other,nebraska party,FALSE,1314,778186,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,"Cobb, David",green,FALSE,978,778186,20171015,NA
+2004,Nebraska,NE,31,46,35,US President,Other,,TRUE,931,778186,20171015,NA
+2004,Nevada,NV,32,88,65,US President,"Bush, George W.",republican,FALSE,418690,829587,20171015,NA
+2004,Nevada,NV,32,88,65,US President,"Kerry, John",democrat,FALSE,397190,829587,20171015,NA
+2004,Nevada,NV,32,88,65,US President,"Nader, Ralph",independent,FALSE,4838,829587,20171015,NA
+2004,Nevada,NV,32,88,65,US President,Other,,FALSE,3688,829587,20171015,NA
+2004,Nevada,NV,32,88,65,US President,"Badnarik, Michael",libertarian,FALSE,3176,829587,20171015,NA
+2004,Nevada,NV,32,88,65,US President,"Peroutka, Michael",independent american,FALSE,1152,829587,20171015,NA
+2004,Nevada,NV,32,88,65,US President,"Cobb, David",green,FALSE,853,829587,20171015,NA
+2004,New Hampshire,NH,33,12,4,US President,"Kerry, John",democrat,FALSE,340511,678287,20171015,NA
+2004,New Hampshire,NH,33,12,4,US President,"Bush, George W.",republican,FALSE,331237,678287,20171015,NA
+2004,New Hampshire,NH,33,12,4,US President,"Nader, Ralph",independent,FALSE,4479,678287,20171015,NA
+2004,New Hampshire,NH,33,12,4,US President,Other,,FALSE,1095,678287,20171015,NA
+2004,New Hampshire,NH,33,12,4,US President,Other,,TRUE,965,678287,20171015,NA
+2004,New Jersey,NJ,34,22,12,US President,"Kerry, John",democrat,FALSE,1911430,3611691,20171015,NA
+2004,New Jersey,NJ,34,22,12,US President,"Bush, George W.",republican,FALSE,1670003,3611691,20171015,NA
+2004,New Jersey,NJ,34,22,12,US President,Other,independent,FALSE,30258,3611691,20171015,NA
+2004,New Mexico,NM,35,85,66,US President,"Bush, George W.",republican,FALSE,376930,756304,20171015,NA
+2004,New Mexico,NM,35,85,66,US President,"Kerry, John",democrat,FALSE,370942,756304,20171015,NA
+2004,New Mexico,NM,35,85,66,US President,"Nader, Ralph",independent,FALSE,4053,756304,20171015,NA
+2004,New Mexico,NM,35,85,66,US President,"Badnarik, Michael",libertarian,FALSE,2382,756304,20171015,NA
+2004,New Mexico,NM,35,85,66,US President,"Cobb, David",green,FALSE,1226,756304,20171015,NA
+2004,New Mexico,NM,35,85,66,US President,"Peroutka, Michael",constitution party,FALSE,771,756304,20171015,NA
+2004,New York,NY,36,21,13,US President,"Kerry, John",democrat,FALSE,4180755,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Bush, George W.",republican,FALSE,2806993,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Bush, George W.",conservative,FALSE,155574,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Kerry, John",working families,FALSE,133525,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Nader, Ralph",independence,FALSE,84247,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,Blank Vote/Scattering,,FALSE,57230,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Nader, Ralph",peace and justice,FALSE,15626,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Badnarik, Michael",libertarian,FALSE,11607,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,"Calero, Roger",socialist workers,FALSE,2405,7448266,20171015,NA
+2004,New York,NY,36,21,13,US President,Other,,TRUE,304,7448266,20171015,NA
+2004,North Carolina,NC,37,56,47,US President,"Bush, George W.",republican,FALSE,1961166,3501007,20171015,NA
+2004,North Carolina,NC,37,56,47,US President,"Kerry, John",democrat,FALSE,1525849,3501007,20171015,NA
+2004,North Carolina,NC,37,56,47,US President,"Badnarik, Michael",libertarian,FALSE,11731,3501007,20171015,NA
+2004,North Carolina,NC,37,56,47,US President,Other,unaffiliated,TRUE,2261,3501007,20171015,NA
+2004,North Dakota,ND,38,44,36,US President,"Bush, George W.",republican,FALSE,196651,312833,20171015,NA
+2004,North Dakota,ND,38,44,36,US President,"Kerry, John",democrat,FALSE,111052,312833,20171015,NA
+2004,North Dakota,ND,38,44,36,US President,"Nader, Ralph",independent,FALSE,3756,312833,20171015,NA
+2004,North Dakota,ND,38,44,36,US President,"Badnarik, Michael",libertarian,FALSE,851,312833,20171015,NA
+2004,North Dakota,ND,38,44,36,US President,"Peroutka, Michael",constitution party,FALSE,514,312833,20171015,NA
+2004,North Dakota,ND,38,44,36,US President,Other,,TRUE,9,312833,20171015,NA
+2004,Ohio,OH,39,31,24,US President,"Bush, George W.",republican,FALSE,2859764,5627903,20171015,NA
+2004,Ohio,OH,39,31,24,US President,"Kerry, John",democrat,FALSE,2741165,5627903,20171015,NA
+2004,Ohio,OH,39,31,24,US President,Other,,FALSE,26616,5627903,20171015,NA
+2004,Ohio,OH,39,31,24,US President,Other,,TRUE,358,5627903,20171015,NA
+2004,Oklahoma,OK,40,73,53,US President,"Bush, George W.",republican,FALSE,959792,1463758,20171015,NA
+2004,Oklahoma,OK,40,73,53,US President,"Kerry, John",democrat,FALSE,503966,1463758,20171015,NA
+2004,Oregon,OR,41,92,72,US President,"Kerry, John",democrat,FALSE,943163,1836782,20171015,NA
+2004,Oregon,OR,41,92,72,US President,"Bush, George W.",republican,FALSE,866831,1836782,20171015,NA
+2004,Oregon,OR,41,92,72,US President,Other,,FALSE,8956,1836782,20171015,NA
+2004,Oregon,OR,41,92,72,US President,"Badnarik, Michael",libertarian,FALSE,7260,1836782,20171015,NA
+2004,Oregon,OR,41,92,72,US President,"Cobb, David",pacific green,FALSE,5315,1836782,20171015,NA
+2004,Oregon,OR,41,92,72,US President,"Peroutka, Michael",constitution party,FALSE,5257,1836782,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,"Kerry, John",democrat,FALSE,2938095,5769590,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,"Bush, George W.",republican,FALSE,2793847,5769590,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,"Badnarik, Michael",libertarian,FALSE,21185,5769590,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,"Cobb, David",green,FALSE,6319,5769590,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,"Peroutka, Michael",constitution party,FALSE,6318,5769590,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,"Independent Party Candidate,",independent,TRUE,2656,5769590,20171015,NA
+2004,Pennsylvania,PA,42,23,14,US President,Blank Vote/Scattering,,FALSE,1170,5769590,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,"Kerry, John",democrat,FALSE,259760,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,"Bush, George W.",republican,FALSE,169046,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,"Nader, Ralph",reform party,FALSE,4651,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,"Cobb, David",green,FALSE,1333,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,"Badnarik, Michael",libertarian,FALSE,907,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,Nonpartisan,nonpartisan,FALSE,845,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,"Peroutka, Michael",constitution party,FALSE,339,437134,20171015,NA
+2004,Rhode Island,RI,44,15,5,US President,Workers World,workers world,FALSE,253,437134,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Bush, George W.",republican,FALSE,937974,1617700,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Kerry, John",democrat,FALSE,661669,1617700,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Nader, Ralph",independence,FALSE,5520,1617700,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Peroutka, Michael",constitution party,FALSE,5317,1617700,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Badnarik, Michael",libertarian,FALSE,3608,1617700,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Brown, Walt",united citizens,FALSE,2124,1617700,20171015,NA
+2004,South Carolina,SC,45,57,48,US President,"Cobb, David",green,FALSE,1488,1617700,20171015,NA
+2004,South Dakota,SD,46,45,37,US President,"Bush, George W.",republican,FALSE,232584,388215,20171015,NA
+2004,South Dakota,SD,46,45,37,US President,"Kerry, John",democrat,FALSE,149244,388215,20171015,NA
+2004,South Dakota,SD,46,45,37,US President,"Nader, Ralph",independent,FALSE,4320,388215,20171015,NA
+2004,South Dakota,SD,46,45,37,US President,"Peroutka, Michael",constitution party,FALSE,1103,388215,20171015,NA
+2004,South Dakota,SD,46,45,37,US President,"Badnarik, Michael",libertarian,FALSE,964,388215,20171015,NA
+2004,Tennessee,TN,47,62,54,US President,"Bush, George W.",republican,FALSE,1384375,2437319,20171015,NA
+2004,Tennessee,TN,47,62,54,US President,"Kerry, John",democrat,FALSE,1036477,2437319,20171015,NA
+2004,Tennessee,TN,47,62,54,US President,Other,independent,FALSE,16428,2437319,20171015,NA
+2004,Tennessee,TN,47,62,54,US President,Other,,TRUE,39,2437319,20171015,NA
+2004,Texas,TX,48,74,49,US President,"Bush, George W.",republican,FALSE,4526917,7410749,20171015,NA
+2004,Texas,TX,48,74,49,US President,"Kerry, John",democrat,FALSE,2832704,7410749,20171015,NA
+2004,Texas,TX,48,74,49,US President,"Badnarik, Michael",libertarian,FALSE,38787,7410749,20171015,NA
+2004,Texas,TX,48,74,49,US President,Other,,TRUE,12341,7410749,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Bush, George W.",republican,FALSE,663742,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Kerry, John",democrat,FALSE,241199,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Nader, Ralph",unaffiliated,FALSE,11305,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Peroutka, Michael",constitution party,FALSE,6841,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Badnarik, Michael",libertarian,FALSE,3375,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Jay, Charles",personal choice,FALSE,946,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,"Calero, Roger",socialist workers,FALSE,393,927844,20171015,NA
+2004,Utah,UT,49,87,67,US President,Other,,TRUE,43,927844,20171015,NA
+2004,Vermont,VT,50,13,6,US President,"Kerry, John",democrat,FALSE,184067,312309,20171015,NA
+2004,Vermont,VT,50,13,6,US President,"Bush, George W.",republican,FALSE,121180,312309,20171015,NA
+2004,Vermont,VT,50,13,6,US President,"Nader, Ralph",independent,FALSE,4494,312309,20171015,NA
+2004,Vermont,VT,50,13,6,US President,"Badnarik, Michael",libertarian,FALSE,1102,312309,20171015,NA
+2004,Vermont,VT,50,13,6,US President,Other,,TRUE,957,312309,20171015,NA
+2004,Vermont,VT,50,13,6,US President,"Parker, John",liberty union party,FALSE,265,312309,20171015,NA
+2004,Vermont,VT,50,13,6,US President,"Calero, Roger",socialist workers,FALSE,244,312309,20171015,NA
+2004,Virginia,VA,51,54,40,US President,"Bush, George W.",republican,FALSE,1716959,3195415,20171015,NA
+2004,Virginia,VA,51,54,40,US President,"Kerry, John",democrat,FALSE,1454742,3195415,20171015,NA
+2004,Virginia,VA,51,54,40,US President,"Badnarik, Michael",libertarian,FALSE,11032,3195415,20171015,NA
+2004,Virginia,VA,51,54,40,US President,"Peroutka, Michael",constitution party,FALSE,10161,3195415,20171015,NA
+2004,Virginia,VA,51,54,40,US President,Other,,TRUE,2521,3195415,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Kerry, John",democrat,FALSE,1510201,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Bush, George W.",republican,FALSE,1304894,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Nader, Ralph",independent,FALSE,23283,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Badnarik, Michael",libertarian,FALSE,11955,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Peroutka, Michael",constitution party,FALSE,3922,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Cobb, David",green,FALSE,2974,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Parker, John",workers world,FALSE,1077,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Calero, Roger",socialist workers,FALSE,547,2859084,20171015,NA
+2004,Washington,WA,53,91,73,US President,"Van Auken, Bill",socialist equality party,FALSE,231,2859084,20171015,NA
+2004,West Virginia,WV,54,55,56,US President,"Bush, George W.",republican,FALSE,423778,755792,20171015,NA
+2004,West Virginia,WV,54,55,56,US President,"Kerry, John",democrat,FALSE,326541,755792,20171015,NA
+2004,West Virginia,WV,54,55,56,US President,"Nader, Ralph",independent,FALSE,4063,755792,20171015,NA
+2004,West Virginia,WV,54,55,56,US President,"Badnarik, Michael",libertarian,FALSE,1405,755792,20171015,NA
+2004,West Virginia,WV,54,55,56,US President,"Cobb, David",,TRUE,5,755792,20171015,NA
+2004,Wisconsin,WI,55,35,25,US President,"Kerry, John",democrat,FALSE,1489504,2997007,20171015,NA
+2004,Wisconsin,WI,55,35,25,US President,"Bush, George W.",republican,FALSE,1478120,2997007,20171015,NA
+2004,Wisconsin,WI,55,35,25,US President,"Nader, Ralph",independent,FALSE,17272,2997007,20171015,NA
+2004,Wisconsin,WI,55,35,25,US President,"Badnarik, Michael",libertarian,FALSE,6464,2997007,20171015,NA
+2004,Wisconsin,WI,55,35,25,US President,Blank Vote/Scattering,,FALSE,2986,2997007,20171015,NA
+2004,Wisconsin,WI,55,35,25,US President,"Cobb, David",wisconsin green,FALSE,2661,2997007,20171015,NA
+2004,Wyoming,WY,56,83,68,US President,"Bush, George W.",republican,FALSE,167629,243861,20171015,NA
+2004,Wyoming,WY,56,83,68,US President,"Kerry, John",democrat,FALSE,70776,243861,20171015,NA
+2004,Wyoming,WY,56,83,68,US President,"Nader, Ralph",independent,FALSE,3372,243861,20171015,NA
+2004,Wyoming,WY,56,83,68,US President,"Badnarik, Michael",libertarian,FALSE,1171,243861,20171015,NA
+2004,Wyoming,WY,56,83,68,US President,Other,,TRUE,480,243861,20171015,NA
+2004,Wyoming,WY,56,83,68,US President,Other,,FALSE,433,243861,20171015,NA
+2008,Alabama,AL,1,63,41,US President,"McCain, John",republican,FALSE,1266546,2099819,20171015,NA
+2008,Alabama,AL,1,63,41,US President,"Obama, Barack H.",democrat,FALSE,813479,2099819,20171015,NA
+2008,Alabama,AL,1,63,41,US President,,independent,FALSE,16089,2099819,20171015,NA
+2008,Alabama,AL,1,63,41,US President,,,TRUE,3705,2099819,20171015,NA
+2008,Alaska,AK,2,94,81,US President,"McCain, John",republican,FALSE,193841,326197,20171015,NA
+2008,Alaska,AK,2,94,81,US President,"Obama, Barack H.",democrat,FALSE,123594,326197,20171015,NA
+2008,Alaska,AK,2,94,81,US President,"Nader, Ralph",independent,FALSE,3783,326197,20171015,NA
+2008,Alaska,AK,2,94,81,US President,,,TRUE,1730,326197,20171015,NA
+2008,Alaska,AK,2,94,81,US President,"Baldwin, Charles """"Chuck""""",alaskan independence party,FALSE,1660,326197,20171015,NA
+2008,Alaska,AK,2,94,81,US President,"Barr, Bob",libertarian,FALSE,1589,326197,20171015,NA
+2008,Arizona,AZ,4,86,61,US President,"McCain, John",republican,FALSE,1230111,2293475,20171015,NA
+2008,Arizona,AZ,4,86,61,US President,"Obama, Barack H.",democrat,FALSE,1034707,2293475,20171015,NA
+2008,Arizona,AZ,4,86,61,US President,"Barr, Bob",libertarian,FALSE,12555,2293475,20171015,NA
+2008,Arizona,AZ,4,86,61,US President,"Nader, Ralph",independent,FALSE,11301,2293475,20171015,NA
+2008,Arizona,AZ,4,86,61,US President,"McKinney, Cynthia",green,FALSE,3406,2293475,20171015,NA
+2008,Arizona,AZ,4,86,61,US President,,,TRUE,1395,2293475,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"McCain, John",republican,FALSE,638017,1086617,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"Obama, Barack H.",democrat,FALSE,422310,1086617,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"Nader, Ralph",independent,FALSE,12882,1086617,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"Barr, Bob",libertarian,FALSE,4776,1086617,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4023,1086617,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"McKinney, Cynthia",green,FALSE,3470,1086617,20171015,NA
+2008,Arkansas,AR,5,71,42,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1139,1086617,20171015,NA
+2008,California,CA,6,93,71,US President,"Obama, Barack H.",democrat,FALSE,8274473,13561900,20171015,NA
+2008,California,CA,6,93,71,US President,"McCain, John",republican,FALSE,5011781,13561900,20171015,NA
+2008,California,CA,6,93,71,US President,"Nader, Ralph",peace & freedom,FALSE,108381,13561900,20171015,NA
+2008,California,CA,6,93,71,US President,"Barr, Bob",libertarian,FALSE,67582,13561900,20171015,NA
+2008,California,CA,6,93,71,US President,"Keyes, Alan",american independent party,FALSE,40673,13561900,20171015,NA
+2008,California,CA,6,93,71,US President,"McKinney, Cynthia",green,FALSE,38774,13561900,20171015,NA
+2008,California,CA,6,93,71,US President,,independent,TRUE,20236,13561900,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Obama, Barack H.",democrat,FALSE,1288576,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"McCain, John",republican,FALSE,1073589,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Nader, Ralph",independent,FALSE,13350,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Barr, Bob",libertarian,FALSE,10897,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,6233,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Keyes, Alan",america's independent party,FALSE,3051,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"McKinney, Cynthia",green,FALSE,2822,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"McEnulty, Frank",unaffiliated,FALSE,828,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Jay, Charles",boston tea party,FALSE,598,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Allen, Jonathan",heartquake '08,FALSE,348,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Stevens, Thomas R.",objectivist party,FALSE,336,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Moore, Brian",socialist,FALSE,226,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,158,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Harris, James",socialist workers,FALSE,154,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Lyttle, Bradford",u.s. pacifist party,FALSE,110,2401361,20171015,NA
+2008,Colorado,CO,8,84,62,US President,"Amondson, Gene",prohibition,FALSE,85,2401361,20171015,NA
+2008,Connecticut,CT,9,16,1,US President,"Obama, Barack H.",democrat,FALSE,997772,1646792,20171015,NA
+2008,Connecticut,CT,9,16,1,US President,"McCain, John",republican,FALSE,629428,1646792,20171015,NA
+2008,Connecticut,CT,9,16,1,US President,"Nader, Ralph",independent,FALSE,19162,1646792,20171015,NA
+2008,Connecticut,CT,9,16,1,US President,,,TRUE,430,1646792,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"Obama, Barack H.",democrat,FALSE,255459,412412,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"McCain, John",republican,FALSE,152374,412412,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"Nader, Ralph",independent,FALSE,2401,412412,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"Barr, Bob",libertarian,FALSE,1109,412412,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,626,412412,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"McKinney, Cynthia",green,FALSE,385,412412,20171015,NA
+2008,Delaware,DE,10,51,11,US President,"Calero, Roger",socialist workers,FALSE,58,412412,20171015,NA
+2008,District of Columbia,DC,11,53,55,US President,"Obama, Barack H.",democrat,FALSE,245800,265853,20171015,NA
+2008,District of Columbia,DC,11,53,55,US President,"McCain, John",republican,FALSE,17367,265853,20171015,NA
+2008,District of Columbia,DC,11,53,55,US President,,,TRUE,1138,265853,20171015,NA
+2008,District of Columbia,DC,11,53,55,US President,"Nader, Ralph",independent,FALSE,958,265853,20171015,NA
+2008,District of Columbia,DC,11,53,55,US President,"McKinney, Cynthia",green,FALSE,590,265853,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Obama, Barack H.",democrat,FALSE,4282074,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"McCain, John",republican,FALSE,4045624,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Nader, Ralph",ecology party of florida,FALSE,28124,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Barr, Bob",libertarian,FALSE,17218,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,7915,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"McKinney, Cynthia",green,FALSE,2887,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Keyes, Alan",america's independent party,FALSE,2550,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1516,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Jay, Charles",boston tea party,FALSE,795,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Calero, Roger",socialist workers,FALSE,533,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Stevens, Thomas R.",objectivist party,FALSE,419,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Moore, Brian",socialist,FALSE,405,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,,,TRUE,391,8390744,20171015,NA
+2008,Florida,FL,12,59,43,US President,"Amondson, Gene",prohibition,FALSE,293,8390744,20171015,NA
+2008,Georgia,GA,13,58,44,US President,"McCain, John",republican,FALSE,2048759,3924486,20171015,NA
+2008,Georgia,GA,13,58,44,US President,"Obama, Barack H.",democrat,FALSE,1844123,3924486,20171015,NA
+2008,Georgia,GA,13,58,44,US President,"Barr, Bob",libertarian,FALSE,28731,3924486,20171015,NA
+2008,Georgia,GA,13,58,44,US President,,,TRUE,1715,3924486,20171015,NA
+2008,Georgia,GA,13,58,44,US President,,independent,TRUE,1158,3924486,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,"Obama, Barack H.",democrat,FALSE,325871,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,"McCain, John",republican,FALSE,120566,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,"Nader, Ralph",independent,FALSE,3825,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,Blank Vote,,FALSE,2193,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,"Barr, Bob",libertarian,FALSE,1314,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1013,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,"McKinney, Cynthia",green,FALSE,979,456064,20171015,NA
+2008,Hawaii,HI,15,95,82,US President,Over Vote,,FALSE,303,456064,20171015,NA
+2008,Idaho,ID,16,82,63,US President,"McCain, John",republican,FALSE,403012,655122,20171015,NA
+2008,Idaho,ID,16,82,63,US President,"Obama, Barack H.",democrat,FALSE,236440,655122,20171015,NA
+2008,Idaho,ID,16,82,63,US President,"Nader, Ralph",independent,FALSE,7175,655122,20171015,NA
+2008,Idaho,ID,16,82,63,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4747,655122,20171015,NA
+2008,Idaho,ID,16,82,63,US President,"Barr, Bob",libertarian,FALSE,3658,655122,20171015,NA
+2008,Idaho,ID,16,82,63,US President,,,TRUE,90,655122,20171015,NA
+2008,Illinois,IL,17,33,21,US President,"Obama, Barack H.",democrat,FALSE,3419348,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,"McCain, John",republican,FALSE,2031179,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,"Nader, Ralph",independent,FALSE,30948,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,"Barr, Bob",libertarian,FALSE,19642,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,"McKinney, Cynthia",green,FALSE,11838,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,8256,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,,new,FALSE,1149,5522371,20171015,NA
+2008,Illinois,IL,17,33,21,US President,,,TRUE,11,5522371,20171015,NA
+2008,Indiana,IN,18,32,22,US President,"Obama, Barack H.",democrat,FALSE,1374039,2751054,20171015,NA
+2008,Indiana,IN,18,32,22,US President,"McCain, John",republican,FALSE,1345648,2751054,20171015,NA
+2008,Indiana,IN,18,32,22,US President,"Barr, Bob",libertarian,FALSE,29257,2751054,20171015,NA
+2008,Indiana,IN,18,32,22,US President,,,TRUE,1201,2751054,20171015,NA
+2008,Indiana,IN,18,32,22,US President,"Nader, Ralph",independent,TRUE,909,2751054,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"Obama, Barack H.",democrat,FALSE,828940,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"McCain, John",republican,FALSE,682379,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"Nader, Ralph",peace & freedom,FALSE,8014,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,,,TRUE,6737,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"Barr, Bob",libertarian,FALSE,4590,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4445,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"McKinney, Cynthia",green,FALSE,1423,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"Harris, James",socialist workers,FALSE,292,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"Moore, Brian",socialist,FALSE,182,1537123,20171015,NA
+2008,Iowa,IA,19,42,31,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,121,1537123,20171015,NA
+2008,Kansas,KS,20,47,32,US President,"McCain, John",republican,FALSE,699655,1235872,20171015,NA
+2008,Kansas,KS,20,47,32,US President,"Obama, Barack H.",democrat,FALSE,514765,1235872,20171015,NA
+2008,Kansas,KS,20,47,32,US President,"Nader, Ralph",independent,FALSE,10598,1235872,20171015,NA
+2008,Kansas,KS,20,47,32,US President,"Barr, Bob",libertarian,FALSE,6706,1235872,20171015,NA
+2008,Kansas,KS,20,47,32,US President,"Baldwin, Charles """"Chuck""""",reform party,FALSE,4148,1235872,20171015,NA
+2008,Kentucky,KY,21,61,51,US President,"McCain, John",republican,FALSE,1048462,1826620,20171015,NA
+2008,Kentucky,KY,21,61,51,US President,"Obama, Barack H.",democrat,FALSE,751985,1826620,20171015,NA
+2008,Kentucky,KY,21,61,51,US President,"Nader, Ralph",independent,FALSE,15378,1826620,20171015,NA
+2008,Kentucky,KY,21,61,51,US President,"Barr, Bob",libertarian,FALSE,5989,1826620,20171015,NA
+2008,Kentucky,KY,21,61,51,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4694,1826620,20171015,NA
+2008,Kentucky,KY,21,61,51,US President,,,TRUE,112,1826620,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"McCain, John",republican,FALSE,1148275,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"Obama, Barack H.",democrat,FALSE,782989,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"Paul, Ronald """"Ron""""",louisiana taxpayers party,FALSE,9368,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"McKinney, Cynthia",green,FALSE,9187,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"Nader, Ralph",independent,FALSE,6997,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,2581,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"Harris, James",socialist workers,FALSE,735,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,354,1960761,20171015,NA
+2008,Louisiana,LA,22,72,45,US President,"Amondson, Gene",prohibition,FALSE,275,1960761,20171015,NA
+2008,Maine,ME,23,11,2,US President,"Obama, Barack H.",democrat,FALSE,421923,731163,20171015,NA
+2008,Maine,ME,23,11,2,US President,"McCain, John",republican,FALSE,295273,731163,20171015,NA
+2008,Maine,ME,23,11,2,US President,"Nader, Ralph",independent,FALSE,10636,731163,20171015,NA
+2008,Maine,ME,23,11,2,US President,"McKinney, Cynthia",green,FALSE,2900,731163,20171015,NA
+2008,Maine,ME,23,11,2,US President,Other,,FALSE,431,731163,20171015,NA
+2008,Maryland,MD,24,52,52,US President,"Obama, Barack H.",democrat,FALSE,1629467,2631596,20171015,NA
+2008,Maryland,MD,24,52,52,US President,"McCain, John",republican,FALSE,959862,2631596,20171015,NA
+2008,Maryland,MD,24,52,52,US President,"Nader, Ralph",independent,FALSE,14713,2631596,20171015,NA
+2008,Maryland,MD,24,52,52,US President,"Barr, Bob",libertarian,FALSE,9842,2631596,20171015,NA
+2008,Maryland,MD,24,52,52,US President,,,TRUE,9205,2631596,20171015,NA
+2008,Maryland,MD,24,52,52,US President,"McKinney, Cynthia",green,FALSE,4747,2631596,20171015,NA
+2008,Maryland,MD,24,52,52,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,3760,2631596,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,"Obama, Barack H.",democrat,FALSE,1904097,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,"McCain, John",republican,FALSE,1108854,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,"Nader, Ralph",independent,FALSE,28841,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,Blank Vote/Scattering,,FALSE,22010,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,Other,,FALSE,14483,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,"Barr, Bob",libertarian,FALSE,13189,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,"McKinney, Cynthia",green,FALSE,6550,3102995,20171015,NA
+2008,Massachusetts,MA,25,14,3,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4971,3102995,20171015,NA
+2008,Michigan,MI,26,34,23,US President,"Obama, Barack H.",democrat,FALSE,2872579,5001596,20171015,NA
+2008,Michigan,MI,26,34,23,US President,"McCain, John",republican,FALSE,2048639,5001596,20171015,NA
+2008,Michigan,MI,26,34,23,US President,"Nader, Ralph",natural law,FALSE,33085,5001596,20171015,NA
+2008,Michigan,MI,26,34,23,US President,"Barr, Bob",libertarian,FALSE,23716,5001596,20171015,NA
+2008,Michigan,MI,26,34,23,US President,"Baldwin, Charles """"Chuck""""",u.s. taxpayers party,FALSE,14685,5001596,20171015,NA
+2008,Michigan,MI,26,34,23,US President,"McKinney, Cynthia",green,FALSE,8892,5001596,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"Obama, Barack H.",democrat,FALSE,1573354,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"McCain, John",republican,FALSE,1275409,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"Nader, Ralph",independent,FALSE,30152,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,,,TRUE,9529,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"Barr, Bob",libertarian,FALSE,9174,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,6787,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"McKinney, Cynthia",green,FALSE,5174,2910369,20171015,NA
+2008,Minnesota,MN,27,41,33,US President,"Calero, Roger",socialist workers,FALSE,790,2910369,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"McCain, John",republican,FALSE,724597,1289865,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"Obama, Barack H.",democrat,FALSE,554662,1289865,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"Nader, Ralph",independent,FALSE,4011,1289865,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,2551,1289865,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"Barr, Bob",libertarian,FALSE,2529,1289865,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"McKinney, Cynthia",green,FALSE,1034,1289865,20171015,NA
+2008,Mississippi,MS,28,64,46,US President,"Weill, Ted",reform party,FALSE,481,1289865,20171015,NA
+2008,Missouri,MO,29,43,34,US President,"McCain, John",republican,FALSE,1445814,2925205,20171015,NA
+2008,Missouri,MO,29,43,34,US President,"Obama, Barack H.",democrat,FALSE,1441911,2925205,20171015,NA
+2008,Missouri,MO,29,43,34,US President,"Nader, Ralph",independent,FALSE,17813,2925205,20171015,NA
+2008,Missouri,MO,29,43,34,US President,"Barr, Bob",libertarian,FALSE,11386,2925205,20171015,NA
+2008,Missouri,MO,29,43,34,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,8201,2925205,20171015,NA
+2008,Missouri,MO,29,43,34,US President,"McKinney, Cynthia",,TRUE,80,2925205,20171015,NA
+2008,Montana,MT,30,81,64,US President,"McCain, John",republican,FALSE,242763,490109,20171015,NA
+2008,Montana,MT,30,81,64,US President,"Obama, Barack H.",democrat,FALSE,231667,490109,20171015,NA
+2008,Montana,MT,30,81,64,US President,"Paul, Ronald """"Ron""""",constitution party,FALSE,10638,490109,20171015,NA
+2008,Montana,MT,30,81,64,US President,"Nader, Ralph",independent,FALSE,3686,490109,20171015,NA
+2008,Montana,MT,30,81,64,US President,"Barr, Bob",libertarian,FALSE,1355,490109,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,"McCain, John",republican,FALSE,452979,801281,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,"Obama, Barack H.",democrat,FALSE,333319,801281,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,"Nader, Ralph",independent,FALSE,5406,801281,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,"Baldwin, Charles """"Chuck""""",nebraska party,FALSE,2972,801281,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,,,TRUE,2837,801281,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,"Barr, Bob",libertarian,FALSE,2740,801281,20171015,NA
+2008,Nebraska,NE,31,46,35,US President,"McKinney, Cynthia",green,FALSE,1028,801281,20171015,NA
+2008,Nevada,NV,32,88,65,US President,"Obama, Barack H.",democrat,FALSE,533736,967848,20171015,NA
+2008,Nevada,NV,32,88,65,US President,"McCain, John",republican,FALSE,412827,967848,20171015,NA
+2008,Nevada,NV,32,88,65,US President,None Of These Candidates,,FALSE,6267,967848,20171015,NA
+2008,Nevada,NV,32,88,65,US President,"Nader, Ralph",independent,FALSE,6150,967848,20171015,NA
+2008,Nevada,NV,32,88,65,US President,"Barr, Bob",libertarian,FALSE,4263,967848,20171015,NA
+2008,Nevada,NV,32,88,65,US President,"Baldwin, Charles """"Chuck""""",independent american,FALSE,3194,967848,20171015,NA
+2008,Nevada,NV,32,88,65,US President,"McKinney, Cynthia",green,FALSE,1411,967848,20171015,NA
+2008,New Hampshire,NH,33,12,4,US President,"Obama, Barack H.",democrat,FALSE,384826,710970,20171015,NA
+2008,New Hampshire,NH,33,12,4,US President,"McCain, John",republican,FALSE,316534,710970,20171015,NA
+2008,New Hampshire,NH,33,12,4,US President,"Nader, Ralph",independent,FALSE,3503,710970,20171015,NA
+2008,New Hampshire,NH,33,12,4,US President,,,TRUE,3359,710970,20171015,NA
+2008,New Hampshire,NH,33,12,4,US President,"Barr, Bob",libertarian,FALSE,2748,710970,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Obama, Barack H.",democrat,FALSE,2215422,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"McCain, John",republican,FALSE,1613207,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Nader, Ralph",independent,FALSE,21298,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Barr, Bob",libertarian,FALSE,8441,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,3956,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"McKinney, Cynthia",green,FALSE,3636,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Moore, Brian",socialist,FALSE,699,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Boss, Jeffery",vote here,FALSE,639,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"Calero, Roger",socialist workers,FALSE,523,3868237,20171015,NA
+2008,New Jersey,NJ,34,22,12,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,416,3868237,20171015,NA
+2008,New Mexico,NM,35,85,66,US President,"Obama, Barack H.",democrat,FALSE,472422,830158,20171015,NA
+2008,New Mexico,NM,35,85,66,US President,"McCain, John",republican,FALSE,346832,830158,20171015,NA
+2008,New Mexico,NM,35,85,66,US President,"Nader, Ralph",independent,FALSE,5327,830158,20171015,NA
+2008,New Mexico,NM,35,85,66,US President,"Barr, Bob",libertarian,FALSE,2428,830158,20171015,NA
+2008,New Mexico,NM,35,85,66,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1597,830158,20171015,NA
+2008,New Mexico,NM,35,85,66,US President,"McKinney, Cynthia",green,FALSE,1552,830158,20171015,NA
+2008,New York,NY,36,21,13,US President,"Obama, Barack H.",democrat,FALSE,4645332,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"McCain, John",republican,FALSE,2418323,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"McCain, John",conservative,FALSE,170475,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"McCain, John",independence,FALSE,163973,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"Obama, Barack H.",working families,FALSE,159613,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,Blank Vote/Scattering,,FALSE,84701,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"Nader, Ralph",populist,FALSE,41249,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"Barr, Bob",libertarian,FALSE,19596,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"McKinney, Cynthia",green,FALSE,12801,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"Harris, James",socialist workers,FALSE,3615,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1639,7722019,20171015,NA
+2008,New York,NY,36,21,13,US President,,,TRUE,702,7722019,20171015,NA
+2008,North Carolina,NC,37,56,47,US President,"Obama, Barack H.",democrat,FALSE,2142651,4310851,20171015,NA
+2008,North Carolina,NC,37,56,47,US President,"McCain, John",republican,FALSE,2128474,4310851,20171015,NA
+2008,North Carolina,NC,37,56,47,US President,"Barr, Bob",libertarian,FALSE,25722,4310851,20171015,NA
+2008,North Carolina,NC,37,56,47,US President,,,TRUE,12494,4310851,20171015,NA
+2008,North Carolina,NC,37,56,47,US President,"Nader, Ralph",independent,TRUE,1510,4310851,20171015,NA
+2008,North Dakota,ND,38,44,36,US President,"McCain, John",republican,FALSE,168601,316621,20171015,NA
+2008,North Dakota,ND,38,44,36,US President,"Obama, Barack H.",democrat,FALSE,141278,316621,20171015,NA
+2008,North Dakota,ND,38,44,36,US President,"Nader, Ralph",independent,FALSE,4189,316621,20171015,NA
+2008,North Dakota,ND,38,44,36,US President,"Barr, Bob",libertarian,FALSE,1354,316621,20171015,NA
+2008,North Dakota,ND,38,44,36,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1199,316621,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"Obama, Barack H.",democrat,FALSE,2940044,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"McCain, John",republican,FALSE,2677820,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"Nader, Ralph",independent,FALSE,46242,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"Barr, Bob",libertarian,FALSE,19917,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,12565,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"McKinney, Cynthia",green,FALSE,8518,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,"Moore, Brian",socialist,FALSE,2735,5708350,20171015,NA
+2008,Ohio,OH,39,31,24,US President,,independent,TRUE,509,5708350,20171015,NA
+2008,Oklahoma,OK,40,73,53,US President,"McCain, John",republican,FALSE,960165,1462661,20171015,NA
+2008,Oklahoma,OK,40,73,53,US President,"Obama, Barack H.",democrat,FALSE,502496,1462661,20171015,NA
+2008,Oregon,OR,41,92,72,US President,"Obama, Barack H.",democrat,FALSE,1037291,1827864,20171015,NA
+2008,Oregon,OR,41,92,72,US President,"McCain, John",republican,FALSE,738475,1827864,20171015,NA
+2008,Oregon,OR,41,92,72,US President,"Nader, Ralph",peace party,FALSE,18614,1827864,20171015,NA
+2008,Oregon,OR,41,92,72,US President,Other,,FALSE,13613,1827864,20171015,NA
+2008,Oregon,OR,41,92,72,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,7693,1827864,20171015,NA
+2008,Oregon,OR,41,92,72,US President,,libertarian,FALSE,7635,1827864,20171015,NA
+2008,Oregon,OR,41,92,72,US President,"McKinney, Cynthia",green,FALSE,4543,1827864,20171015,NA
+2008,Pennsylvania,PA,42,23,14,US President,"Obama, Barack H.",democrat,FALSE,3276363,6013272,20171015,NA
+2008,Pennsylvania,PA,42,23,14,US President,"McCain, John",republican,FALSE,2655885,6013272,20171015,NA
+2008,Pennsylvania,PA,42,23,14,US President,"Nader, Ralph",independent,FALSE,42977,6013272,20171015,NA
+2008,Pennsylvania,PA,42,23,14,US President,"Barr, Bob",libertarian,FALSE,19912,6013272,20171015,NA
+2008,Pennsylvania,PA,42,23,14,US President,,,TRUE,9955,6013272,20171015,NA
+2008,Pennsylvania,PA,42,23,14,US President,Scattering,,FALSE,8180,6013272,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"Obama, Barack H.",democrat,FALSE,296571,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"McCain, John",republican,FALSE,165391,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"Nader, Ralph",independent,FALSE,4829,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,,,TRUE,1999,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"Barr, Bob",libertarian,FALSE,1382,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"McKinney, Cynthia",green,FALSE,797,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,675,471766,20171015,NA
+2008,Rhode Island,RI,44,15,5,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,122,471766,20171015,NA
+2008,South Carolina,SC,45,57,48,US President,"McCain, John",republican,FALSE,1034896,1920969,20171015,NA
+2008,South Carolina,SC,45,57,48,US President,"Obama, Barack H.",democrat,FALSE,862449,1920969,20171015,NA
+2008,South Carolina,SC,45,57,48,US President,"Barr, Bob",libertarian,FALSE,7283,1920969,20171015,NA
+2008,South Carolina,SC,45,57,48,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,6827,1920969,20171015,NA
+2008,South Carolina,SC,45,57,48,US President,"Nader, Ralph",independent,FALSE,5053,1920969,20171015,NA
+2008,South Carolina,SC,45,57,48,US President,"McKinney, Cynthia",green,FALSE,4461,1920969,20171015,NA
+2008,South Dakota,SD,46,45,37,US President,"McCain, John",republican,FALSE,203054,381975,20171015,NA
+2008,South Dakota,SD,46,45,37,US President,"Obama, Barack H.",democrat,FALSE,170924,381975,20171015,NA
+2008,South Dakota,SD,46,45,37,US President,"Nader, Ralph",independent,FALSE,4267,381975,20171015,NA
+2008,South Dakota,SD,46,45,37,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1895,381975,20171015,NA
+2008,South Dakota,SD,46,45,37,US President,"Barr, Bob",libertarian,FALSE,1835,381975,20171015,NA
+2008,Tennessee,TN,47,62,54,US President,"McCain, John",republican,FALSE,1479178,2599749,20171015,NA
+2008,Tennessee,TN,47,62,54,US President,"Obama, Barack H.",democrat,FALSE,1087437,2599749,20171015,NA
+2008,Tennessee,TN,47,62,54,US President,,independent,FALSE,33134,2599749,20171015,NA
+2008,Texas,TX,48,74,49,US President,"McCain, John",republican,FALSE,4479328,8077795,20171015,NA
+2008,Texas,TX,48,74,49,US President,"Obama, Barack H.",democrat,FALSE,3528633,8077795,20171015,NA
+2008,Texas,TX,48,74,49,US President,"Barr, Bob",libertarian,FALSE,56116,8077795,20171015,NA
+2008,Texas,TX,48,74,49,US President,,,TRUE,7967,8077795,20171015,NA
+2008,Texas,TX,48,74,49,US President,"Nader, Ralph",independent,TRUE,5751,8077795,20171015,NA
+2008,Utah,UT,49,87,67,US President,"McCain, John",republican,FALSE,596030,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,"Obama, Barack H.",democrat,FALSE,327670,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,12012,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,"Nader, Ralph",peace & freedom,FALSE,8416,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,"Barr, Bob",libertarian,FALSE,6966,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,"McKinney, Cynthia",green,FALSE,982,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,262,952370,20171015,NA
+2008,Utah,UT,49,87,67,US President,,,TRUE,32,952370,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"Obama, Barack H.",democrat,FALSE,219262,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"McCain, John",republican,FALSE,98974,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"Nader, Ralph",independent,FALSE,3339,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,,,TRUE,1464,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"Barr, Bob",libertarian,FALSE,1067,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,500,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"Calero, Roger",socialist workers,FALSE,150,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,149,325046,20171015,NA
+2008,Vermont,VT,50,13,6,US President,"Moore, Brian",liberty union party,FALSE,141,325046,20171015,NA
+2008,Virginia,VA,51,54,40,US President,"Obama, Barack H.",democrat,FALSE,1959532,3723260,20171015,NA
+2008,Virginia,VA,51,54,40,US President,"McCain, John",republican,FALSE,1725005,3723260,20171015,NA
+2008,Virginia,VA,51,54,40,US President,"Nader, Ralph",independent,FALSE,11483,3723260,20171015,NA
+2008,Virginia,VA,51,54,40,US President,"Barr, Bob",libertarian,FALSE,11067,3723260,20171015,NA
+2008,Virginia,VA,51,54,40,US President,"Baldwin, Charles """"Chuck""""",independent green,FALSE,7474,3723260,20171015,NA
+2008,Virginia,VA,51,54,40,US President,,,TRUE,6355,3723260,20171015,NA
+2008,Virginia,VA,51,54,40,US President,"McKinney, Cynthia",green,FALSE,2344,3723260,20171015,NA
+2008,Washington,WA,53,91,73,US President,"Obama, Barack H.",democrat,FALSE,1750848,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"McCain, John",republican,FALSE,1229216,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"Nader, Ralph",independent,FALSE,29489,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"Barr, Bob",libertarian,FALSE,12728,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,9432,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"McKinney, Cynthia",green,FALSE,3819,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,705,3036878,20171015,NA
+2008,Washington,WA,53,91,73,US President,"Harris, James",socialist workers,FALSE,641,3036878,20171015,NA
+2008,West Virginia,WV,54,55,56,US President,"McCain, John",republican,FALSE,397466,713451,20171015,NA
+2008,West Virginia,WV,54,55,56,US President,"Obama, Barack H.",democrat,FALSE,303857,713451,20171015,NA
+2008,West Virginia,WV,54,55,56,US President,"Nader, Ralph",independent,FALSE,7219,713451,20171015,NA
+2008,West Virginia,WV,54,55,56,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,2465,713451,20171015,NA
+2008,West Virginia,WV,54,55,56,US President,"McKinney, Cynthia",mountain party,FALSE,2355,713451,20171015,NA
+2008,West Virginia,WV,54,55,56,US President,,,TRUE,89,713451,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"Obama, Barack H.",democrat,FALSE,1677211,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"McCain, John",republican,FALSE,1262393,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"Nader, Ralph",independent,FALSE,17605,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"Barr, Bob",libertarian,FALSE,8858,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,Scattering,,FALSE,6521,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,5072,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"McKinney, Cynthia",green,FALSE,4216,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"Wamboldt, Jeffrey",we the people,FALSE,764,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"Moore, Brian",socialist party usa,FALSE,540,2983417,20171015,NA
+2008,Wisconsin,WI,55,35,25,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,237,2983417,20171015,NA
+2008,Wyoming,WY,56,83,68,US President,"McCain, John",republican,FALSE,164958,254904,20171015,NA
+2008,Wyoming,WY,56,83,68,US President,"Obama, Barack H.",democrat,FALSE,82868,254904,20171015,NA
+2008,Wyoming,WY,56,83,68,US President,,independent,FALSE,3717,254904,20171015,NA
+2008,Wyoming,WY,56,83,68,US President,"Barr, Bob",libertarian,FALSE,1594,254904,20171015,NA
+2008,Wyoming,WY,56,83,68,US President,,,TRUE,1521,254904,20171015,NA
+2008,Wyoming,WY,56,83,68,US President,Over Vote,,FALSE,246,254904,20171015,NA
+2012,Alabama,AL,1,63,41,US President,"Romney, Mitt",republican,FALSE,1255925,2074338,20171015,NA
+2012,Alabama,AL,1,63,41,US President,"Obama, Barack H.",democrat,FALSE,795696,2074338,20171015,NA
+2012,Alabama,AL,1,63,41,US President,,independent,FALSE,18706,2074338,20171015,NA
+2012,Alabama,AL,1,63,41,US President,,,TRUE,4011,2074338,20171015,NA
+2012,Alaska,AK,2,94,81,US President,"Romney, Mitt",republican,FALSE,164676,300495,20171015,NA
+2012,Alaska,AK,2,94,81,US President,"Obama, Barack H.",democrat,FALSE,122640,300495,20171015,NA
+2012,Alaska,AK,2,94,81,US President,"Johnson, Gary",libertarian,FALSE,7392,300495,20171015,NA
+2012,Alaska,AK,2,94,81,US President,"Stein, Jill",green,FALSE,2917,300495,20171015,NA
+2012,Alaska,AK,2,94,81,US President,,,TRUE,2870,300495,20171015,NA
+2012,Arizona,AZ,4,86,61,US President,"Romney, Mitt",republican,FALSE,1233654,2299254,20171015,NA
+2012,Arizona,AZ,4,86,61,US President,"Obama, Barack H.",democrat,FALSE,1025232,2299254,20171015,NA
+2012,Arizona,AZ,4,86,61,US President,"Johnson, Gary",libertarian,FALSE,32100,2299254,20171015,NA
+2012,Arizona,AZ,4,86,61,US President,"Stein, Jill",green,FALSE,7816,2299254,20171015,NA
+2012,Arizona,AZ,4,86,61,US President,,,TRUE,452,2299254,20171015,NA
+2012,Arkansas,AR,5,71,42,US President,"Romney, Mitt",republican,FALSE,647744,1069468,20171015,NA
+2012,Arkansas,AR,5,71,42,US President,"Obama, Barack H.",democrat,FALSE,394409,1069468,20171015,NA
+2012,Arkansas,AR,5,71,42,US President,"Johnson, Gary",libertarian,FALSE,16276,1069468,20171015,NA
+2012,Arkansas,AR,5,71,42,US President,"Stein, Jill",green,FALSE,9305,1069468,20171015,NA
+2012,Arkansas,AR,5,71,42,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1734,1069468,20171015,NA
+2012,California,CA,6,93,71,US President,"Obama, Barack H.",democrat,FALSE,7854285,13038547,20171015,NA
+2012,California,CA,6,93,71,US President,"Romney, Mitt",republican,FALSE,4839958,13038547,20171015,NA
+2012,California,CA,6,93,71,US President,"Johnson, Gary",libertarian,FALSE,143221,13038547,20171015,NA
+2012,California,CA,6,93,71,US President,"Stein, Jill",green,FALSE,85638,13038547,20171015,NA
+2012,California,CA,6,93,71,US President,"Barr, Roseanne",peace & freedom,FALSE,53824,13038547,20171015,NA
+2012,California,CA,6,93,71,US President,"Hoefling, Thomas Conrad """"Tom""""",american independent party,FALSE,38372,13038547,20171015,NA
+2012,California,CA,6,93,71,US President,,,TRUE,23249,13038547,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Obama, Barack H.",democrat,FALSE,1323101,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Romney, Mitt",republican,FALSE,1185243,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Johnson, Gary",libertarian,FALSE,35545,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Stein, Jill",green,FALSE,7508,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Goode, Virgil Hamlin, Jr.",american constitution party,FALSE,6234,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Barr, Roseanne",peace & freedom,FALSE,5057,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Reed, Jill Ann",no party affiliation,FALSE,2588,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1262,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Tittle, Sheila """"Samm""""",we the people,FALSE,791,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Hoefling, Thomas Conrad """"Tom""""",america's party,FALSE,679,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,317,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Alexander, Stewart",socialist,FALSE,308,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Miller, Merlin",american third position,FALSE,267,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Stevens, Thomas Robert """"Tom""""",objectivist party,FALSE,235,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"Harris, James",socialist workers,FALSE,192,2569516,20171015,NA
+2012,Colorado,CO,8,84,62,US President,"White, Jerry",socialist equality party,FALSE,189,2569516,20171015,NA
+2012,Connecticut,CT,9,16,1,US President,"Obama, Barack H.",democrat,FALSE,905083,1558204,20171015,NA
+2012,Connecticut,CT,9,16,1,US President,"Romney, Mitt",republican,FALSE,634892,1558204,20171015,NA
+2012,Connecticut,CT,9,16,1,US President,"Johnson, Gary",libertarian,FALSE,12340,1558204,20171015,NA
+2012,Connecticut,CT,9,16,1,US President,,independent,FALSE,4971,1558204,20171015,NA
+2012,Connecticut,CT,9,16,1,US President,,,TRUE,918,1558204,20171015,NA
+2012,Delaware,DE,10,51,11,US President,"Obama, Barack H.",democrat,FALSE,242584,413890,20171015,NA
+2012,Delaware,DE,10,51,11,US President,"Romney, Mitt",republican,FALSE,165484,413890,20171015,NA
+2012,Delaware,DE,10,51,11,US President,"Johnson, Gary",libertarian,FALSE,3882,413890,20171015,NA
+2012,Delaware,DE,10,51,11,US President,"Stein, Jill",green,FALSE,1940,413890,20171015,NA
+2012,District of Columbia,DC,11,53,55,US President,"Obama, Barack H.",democrat,FALSE,267070,293764,20171015,NA
+2012,District of Columbia,DC,11,53,55,US President,"Romney, Mitt",republican,FALSE,21381,293764,20171015,NA
+2012,District of Columbia,DC,11,53,55,US President,"Stein, Jill",d.c. statehood green,FALSE,2458,293764,20171015,NA
+2012,District of Columbia,DC,11,53,55,US President,"Johnson, Gary",libertarian,FALSE,2083,293764,20171015,NA
+2012,District of Columbia,DC,11,53,55,US President,,,TRUE,772,293764,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Obama, Barack H.",democrat,FALSE,4237756,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Romney, Mitt",republican,FALSE,4163447,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Johnson, Gary",libertarian,FALSE,44726,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Stein, Jill",green,FALSE,8947,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Barr, Roseanne",peace & freedom,FALSE,8154,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Stevens, Thomas Robert """"Tom""""",objectivist party,FALSE,3856,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2607,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1754,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Hoefling, Thomas Conrad """"Tom""""",american independent,FALSE,946,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Barnett, Andre",reform party,FALSE,820,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Alexander, Stewart",socialist,FALSE,799,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,"Lindsay, Peta",socialism and liberation party,FALSE,322,8474179,20171015,NA
+2012,Florida,FL,12,59,43,US President,,,TRUE,45,8474179,20171015,NA
+2012,Georgia,GA,13,58,44,US President,"Romney, Mitt",republican,FALSE,2078688,3897839,20171015,NA
+2012,Georgia,GA,13,58,44,US President,"Obama, Barack H.",democrat,FALSE,1773827,3897839,20171015,NA
+2012,Georgia,GA,13,58,44,US President,"Johnson, Gary",libertarian,FALSE,45324,3897839,20171015,NA
+2012,Hawaii,HI,15,95,82,US President,"Obama, Barack H.",democrat,FALSE,306658,437159,20171015,NA
+2012,Hawaii,HI,15,95,82,US President,"Romney, Mitt",republican,FALSE,121015,437159,20171015,NA
+2012,Hawaii,HI,15,95,82,US President,"Johnson, Gary",libertarian,FALSE,3840,437159,20171015,NA
+2012,Hawaii,HI,15,95,82,US President,"Stein, Jill",green,FALSE,3184,437159,20171015,NA
+2012,Hawaii,HI,15,95,82,US President,Blank Vote,,FALSE,2227,437159,20171015,NA
+2012,Hawaii,HI,15,95,82,US President,Over Vote,,FALSE,235,437159,20171015,NA
+2012,Idaho,ID,16,82,63,US President,"Romney, Mitt",republican,FALSE,420911,652274,20171015,NA
+2012,Idaho,ID,16,82,63,US President,"Obama, Barack H.",democrat,FALSE,212787,652274,20171015,NA
+2012,Idaho,ID,16,82,63,US President,"Johnson, Gary",libertarian,FALSE,9453,652274,20171015,NA
+2012,Idaho,ID,16,82,63,US President,,independent,FALSE,6901,652274,20171015,NA
+2012,Idaho,ID,16,82,63,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2222,652274,20171015,NA
+2012,Illinois,IL,17,33,21,US President,"Obama, Barack H.",democrat,FALSE,3019512,5242014,20171015,NA
+2012,Illinois,IL,17,33,21,US President,"Romney, Mitt",republican,FALSE,2135216,5242014,20171015,NA
+2012,Illinois,IL,17,33,21,US President,"Johnson, Gary",libertarian,FALSE,56229,5242014,20171015,NA
+2012,Illinois,IL,17,33,21,US President,"Stein, Jill",green,FALSE,30222,5242014,20171015,NA
+2012,Illinois,IL,17,33,21,US President,,,TRUE,835,5242014,20171015,NA
+2012,Indiana,IN,18,32,22,US President,"Romney, Mitt",republican,FALSE,1420543,2624534,20171015,NA
+2012,Indiana,IN,18,32,22,US President,"Obama, Barack H.",democrat,FALSE,1152887,2624534,20171015,NA
+2012,Indiana,IN,18,32,22,US President,"Johnson, Gary",libertarian,FALSE,50111,2624534,20171015,NA
+2012,Indiana,IN,18,32,22,US President,,,TRUE,993,2624534,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"Obama, Barack H.",democrat,FALSE,822544,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"Romney, Mitt",republican,FALSE,730617,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"Johnson, Gary",libertarian,FALSE,12926,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,,,TRUE,7442,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"Stein, Jill",green,FALSE,3769,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,3038,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,,nominated by petition,FALSE,1027,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"Harris, James",socialist workers,FALSE,445,1582180,20171015,NA
+2012,Iowa,IA,19,42,31,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,372,1582180,20171015,NA
+2012,Kansas,KS,20,47,32,US President,"Romney, Mitt",republican,FALSE,692634,1159971,20171015,NA
+2012,Kansas,KS,20,47,32,US President,"Obama, Barack H.",democrat,FALSE,440726,1159971,20171015,NA
+2012,Kansas,KS,20,47,32,US President,"Johnson, Gary",libertarian,FALSE,20456,1159971,20171015,NA
+2012,Kansas,KS,20,47,32,US President,"Baldwin, Charles """"Chuck""""",reform party,FALSE,5017,1159971,20171015,NA
+2012,Kansas,KS,20,47,32,US President,,,TRUE,1138,1159971,20171015,NA
+2012,Kentucky,KY,21,61,51,US President,"Romney, Mitt",republican,FALSE,1087190,1797212,20171015,NA
+2012,Kentucky,KY,21,61,51,US President,"Obama, Barack H.",democrat,FALSE,679370,1797212,20171015,NA
+2012,Kentucky,KY,21,61,51,US President,"Johnson, Gary",libertarian,FALSE,17063,1797212,20171015,NA
+2012,Kentucky,KY,21,61,51,US President,"Terry, Randall",independent,FALSE,6872,1797212,20171015,NA
+2012,Kentucky,KY,21,61,51,US President,"Stein, Jill",green,FALSE,6337,1797212,20171015,NA
+2012,Kentucky,KY,21,61,51,US President,,,TRUE,380,1797212,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Romney, Mitt",republican,FALSE,1152262,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Obama, Barack H.",democrat,FALSE,809141,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Johnson, Gary",libertarian,FALSE,18157,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Stein, Jill",green,FALSE,6978,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2508,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Tittle, Sheila """"Samm""""",we the people,FALSE,1767,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1368,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Lindsay, Peta",socialism and liberation party,FALSE,622,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Fellure, Lowell Jackson """"Jack""""",prohibition,FALSE,518,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"Harris, James",socialist workers,FALSE,389,1994065,20171015,NA
+2012,Louisiana,LA,22,72,45,US President,"White, Jerome """"Jerry""""",socialist equality party,FALSE,355,1994065,20171015,NA
+2012,Maine,ME,23,11,2,US President,"Obama, Barack H.",democrat,FALSE,401306,724758,20171015,NA
+2012,Maine,ME,23,11,2,US President,"Romney, Mitt",republican,FALSE,292276,724758,20171015,NA
+2012,Maine,ME,23,11,2,US President,Blank Vote,,FALSE,11578,724758,20171015,NA
+2012,Maine,ME,23,11,2,US President,"Johnson, Gary",libertarian,FALSE,9352,724758,20171015,NA
+2012,Maine,ME,23,11,2,US President,"Stein, Jill",green,FALSE,8119,724758,20171015,NA
+2012,Maine,ME,23,11,2,US President,,,TRUE,2127,724758,20171015,NA
+2012,Maryland,MD,24,52,52,US President,"Obama, Barack H.",democrat,FALSE,1677844,2707327,20171015,NA
+2012,Maryland,MD,24,52,52,US President,"Romney, Mitt",republican,FALSE,971869,2707327,20171015,NA
+2012,Maryland,MD,24,52,52,US President,"Johnson, Gary",libertarian,FALSE,30195,2707327,20171015,NA
+2012,Maryland,MD,24,52,52,US President,"Stein, Jill",green,FALSE,17110,2707327,20171015,NA
+2012,Maryland,MD,24,52,52,US President,,,TRUE,10309,2707327,20171015,NA
+2012,Massachusetts,MA,25,14,3,US President,"Obama, Barack H.",democrat,FALSE,1921290,3184196,20171015,NA
+2012,Massachusetts,MA,25,14,3,US President,"Romney, Mitt",republican,FALSE,1188314,3184196,20171015,NA
+2012,Massachusetts,MA,25,14,3,US President,"Johnson, Gary",libertarian,FALSE,30920,3184196,20171015,NA
+2012,Massachusetts,MA,25,14,3,US President,"Stein, Jill",green-rainbow,FALSE,20691,3184196,20171015,NA
+2012,Massachusetts,MA,25,14,3,US President,Blank Vote/Scattering,,FALSE,16429,3184196,20171015,NA
+2012,Massachusetts,MA,25,14,3,US President,Other,,FALSE,6552,3184196,20171015,NA
+2012,Michigan,MI,26,34,23,US President,"Obama, Barack H.",democrat,FALSE,2564569,4730961,20171015,NA
+2012,Michigan,MI,26,34,23,US President,"Romney, Mitt",republican,FALSE,2115256,4730961,20171015,NA
+2012,Michigan,MI,26,34,23,US President,"Stein, Jill",green,FALSE,21897,4730961,20171015,NA
+2012,Michigan,MI,26,34,23,US President,"Goode, Virgil Hamlin, Jr.",u.s. taxpayers party,FALSE,16119,4730961,20171015,NA
+2012,Michigan,MI,26,34,23,US President,,,TRUE,7973,4730961,20171015,NA
+2012,Michigan,MI,26,34,23,US President,"Anderson, Ross Carl """"Rocky""""",natural law,FALSE,5147,4730961,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Obama, Barack H.",democratic-farmer-labor,FALSE,1546167,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Romney, Mitt",republican,FALSE,1320225,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Johnson, Gary",libertarian,FALSE,35098,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Stein, Jill",green,FALSE,13023,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,,,TRUE,10641,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,3722,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Carlson, Jim",grassroots,FALSE,3149,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1996,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Morstad, Dean",constitutional government,FALSE,1092,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Harris, James",socialist workers,FALSE,1051,2936561,20171015,NA
+2012,Minnesota,MN,27,41,33,US President,"Lindsay, Peta",socialism and liberation party,FALSE,397,2936561,20171015,NA
+2012,Mississippi,MS,28,64,46,US President,"Romney, Mitt",republican,FALSE,710746,1285584,20171015,NA
+2012,Mississippi,MS,28,64,46,US President,"Obama, Barack H.",democrat,FALSE,562949,1285584,20171015,NA
+2012,Mississippi,MS,28,64,46,US President,"Johnson, Gary",libertarian,FALSE,6676,1285584,20171015,NA
+2012,Mississippi,MS,28,64,46,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2609,1285584,20171015,NA
+2012,Mississippi,MS,28,64,46,US President,"Stein, Jill",green,FALSE,1588,1285584,20171015,NA
+2012,Mississippi,MS,28,64,46,US President,"Washer, Barbara Dale",reform party,FALSE,1016,1285584,20171015,NA
+2012,Missouri,MO,29,43,34,US President,"Romney, Mitt",republican,FALSE,1482440,2757323,20171015,NA
+2012,Missouri,MO,29,43,34,US President,"Obama, Barack H.",democrat,FALSE,1223796,2757323,20171015,NA
+2012,Missouri,MO,29,43,34,US President,"Johnson, Gary",libertarian,FALSE,43151,2757323,20171015,NA
+2012,Missouri,MO,29,43,34,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,7936,2757323,20171015,NA
+2012,Montana,MT,30,81,64,US President,"Romney, Mitt",republican,FALSE,267928,484048,20171015,NA
+2012,Montana,MT,30,81,64,US President,"Obama, Barack H.",democrat,FALSE,201839,484048,20171015,NA
+2012,Montana,MT,30,81,64,US President,"Johnson, Gary",libertarian,FALSE,14165,484048,20171015,NA
+2012,Montana,MT,30,81,64,US President,,,TRUE,116,484048,20171015,NA
+2012,Nebraska,NE,31,46,35,US President,"Romney, Mitt",republican,FALSE,475064,794379,20171015,NA
+2012,Nebraska,NE,31,46,35,US President,"Obama, Barack H.",democrat,FALSE,302081,794379,20171015,NA
+2012,Nebraska,NE,31,46,35,US President,"Johnson, Gary",libertarian,FALSE,11109,794379,20171015,NA
+2012,Nebraska,NE,31,46,35,US President,,,TRUE,3717,794379,20171015,NA
+2012,Nebraska,NE,31,46,35,US President,,nominated by petition,FALSE,2408,794379,20171015,NA
+2012,Nevada,NV,32,88,65,US President,"Obama, Barack H.",democrat,FALSE,531373,1014918,20171015,NA
+2012,Nevada,NV,32,88,65,US President,"Romney, Mitt",republican,FALSE,463567,1014918,20171015,NA
+2012,Nevada,NV,32,88,65,US President,"Johnson, Gary",libertarian,FALSE,10968,1014918,20171015,NA
+2012,Nevada,NV,32,88,65,US President,None Of These Candidates,,FALSE,5770,1014918,20171015,NA
+2012,Nevada,NV,32,88,65,US President,"Goode, Virgil Hamlin, Jr.",independent american,FALSE,3240,1014918,20171015,NA
+2012,New Hampshire,NH,33,12,4,US President,"Obama, Barack H.",democrat,FALSE,369561,710972,20171015,NA
+2012,New Hampshire,NH,33,12,4,US President,"Romney, Mitt",republican,FALSE,329918,710972,20171015,NA
+2012,New Hampshire,NH,33,12,4,US President,"Johnson, Gary",libertarian,FALSE,8212,710972,20171015,NA
+2012,New Hampshire,NH,33,12,4,US President,,,TRUE,1698,710972,20171015,NA
+2012,New Hampshire,NH,33,12,4,US President,Scattering,,FALSE,875,710972,20171015,NA
+2012,New Hampshire,NH,33,12,4,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,708,710972,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Obama, Barack H.",democrat,FALSE,2122786,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Romney, Mitt",republican,FALSE,1478088,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Johnson, Gary",libertarian,FALSE,21035,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Stein, Jill",green,FALSE,9886,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2063,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1723,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Boss, Jeffery",nsa did 911,FALSE,1024,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Harris, James",socialist workers,FALSE,709,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Miller, Merlin",american third position,FALSE,664,3638499,20171015,NA
+2012,New Jersey,NJ,34,22,12,US President,"Lindsay, Peta",socialism and liberation party,FALSE,521,3638499,20171015,NA
+2012,New Mexico,NM,35,85,66,US President,"Obama, Barack H.",democrat,FALSE,415335,783758,20171015,NA
+2012,New Mexico,NM,35,85,66,US President,"Romney, Mitt",republican,FALSE,335788,783758,20171015,NA
+2012,New Mexico,NM,35,85,66,US President,"Johnson, Gary",libertarian,FALSE,27788,783758,20171015,NA
+2012,New Mexico,NM,35,85,66,US President,"Stein, Jill",green,FALSE,2691,783758,20171015,NA
+2012,New Mexico,NM,35,85,66,US President,,new mexico independent party,FALSE,1174,783758,20171015,NA
+2012,New Mexico,NM,35,85,66,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,982,783758,20171015,NA
+2012,New York,NY,36,21,13,US President,"Obama, Barack H.",democrat,FALSE,4324228,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Romney, Mitt",republican,FALSE,2223397,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Romney, Mitt",conservative,FALSE,262035,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Obama, Barack H.",working families,FALSE,147643,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,Blank Vote/Void Vote/Scattering,,FALSE,63881,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Johnson, Gary",libertarian,FALSE,47092,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Stein, Jill",green,FALSE,39856,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,6270,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,"Lindsay, Peta",socialism and liberation party,FALSE,2039,7116784,20171015,NA
+2012,New York,NY,36,21,13,US President,,,TRUE,343,7116784,20171015,NA
+2012,North Carolina,NC,37,56,47,US President,"Romney, Mitt",republican,FALSE,2270395,4505372,20171015,NA
+2012,North Carolina,NC,37,56,47,US President,"Obama, Barack H.",democrat,FALSE,2178391,4505372,20171015,NA
+2012,North Carolina,NC,37,56,47,US President,"Johnson, Gary",libertarian,FALSE,44515,4505372,20171015,NA
+2012,North Carolina,NC,37,56,47,US President,,,TRUE,12071,4505372,20171015,NA
+2012,North Dakota,ND,38,44,36,US President,"Romney, Mitt",republican,FALSE,188320,322932,20171015,NA
+2012,North Dakota,ND,38,44,36,US President,"Obama, Barack H.",democrat,FALSE,124966,322932,20171015,NA
+2012,North Dakota,ND,38,44,36,US President,"Johnson, Gary",libertarian,FALSE,5238,322932,20171015,NA
+2012,North Dakota,ND,38,44,36,US President,,,TRUE,1860,322932,20171015,NA
+2012,North Dakota,ND,38,44,36,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,1186,322932,20171015,NA
+2012,North Dakota,ND,38,44,36,US President,"Stein, Jill",green,FALSE,1362,322932,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Obama, Barack H.",democrat,FALSE,2827621,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Romney, Mitt",republican,FALSE,2661407,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Johnson, Gary",libertarian,FALSE,49493,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Stein, Jill",green,FALSE,18574,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Duncan, Richard",independent,FALSE,12502,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,8151,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,"Alexander, Stewart",socialist,FALSE,2967,5580822,20171015,NA
+2012,Ohio,OH,39,31,24,US President,,,TRUE,107,5580822,20171015,NA
+2012,Oklahoma,OK,40,73,53,US President,"Romney, Mitt",republican,FALSE,891325,1334872,20171015,NA
+2012,Oklahoma,OK,40,73,53,US President,"Obama, Barack H.",democrat,FALSE,443547,1334872,20171015,NA
+2012,Oregon,OR,41,92,72,US President,"Obama, Barack H.",democrat,FALSE,970488,1789270,20171015,NA
+2012,Oregon,OR,41,92,72,US President,"Romney, Mitt",republican,FALSE,754175,1789270,20171015,NA
+2012,Oregon,OR,41,92,72,US President,"Johnson, Gary",libertarian,FALSE,24089,1789270,20171015,NA
+2012,Oregon,OR,41,92,72,US President,"Stein, Jill",pacific green,FALSE,19427,1789270,20171015,NA
+2012,Oregon,OR,41,92,72,US President,Other,,FALSE,13275,1789270,20171015,NA
+2012,Oregon,OR,41,92,72,US President,"Christensen, Will",constitution party,FALSE,4432,1789270,20171015,NA
+2012,Oregon,OR,41,92,72,US President,"Anderson, Ross Carl """"Rocky""""",progressive,FALSE,3384,1789270,20171015,NA
+2012,Pennsylvania,PA,42,23,14,US President,"Obama, Barack H.",democrat,FALSE,2990274,5742040,20171015,NA
+2012,Pennsylvania,PA,42,23,14,US President,"Romney, Mitt",republican,FALSE,2680434,5742040,20171015,NA
+2012,Pennsylvania,PA,42,23,14,US President,"Johnson, Gary",libertarian,FALSE,49991,5742040,20171015,NA
+2012,Pennsylvania,PA,42,23,14,US President,"Stein, Jill",green,FALSE,21341,5742040,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Obama, Barack H.",democrat,FALSE,279677,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Romney, Mitt",republican,FALSE,157204,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Johnson, Gary",libertarian,FALSE,4388,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Stein, Jill",green,FALSE,2421,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,,,TRUE,1381,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,430,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,416,446049,20171015,NA
+2012,Rhode Island,RI,44,15,5,US President,"Lindsay, Peta",socialism and liberation party,FALSE,132,446049,20171015,NA
+2012,South Carolina,SC,45,57,48,US President,"Romney, Mitt",republican,FALSE,1071645,1964118,20171015,NA
+2012,South Carolina,SC,45,57,48,US President,"Obama, Barack H.",democrat,FALSE,865941,1964118,20171015,NA
+2012,South Carolina,SC,45,57,48,US President,"Johnson, Gary",libertarian,FALSE,16321,1964118,20171015,NA
+2012,South Carolina,SC,45,57,48,US President,"Stein, Jill",green,FALSE,5446,1964118,20171015,NA
+2012,South Carolina,SC,45,57,48,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,4765,1964118,20171015,NA
+2012,South Dakota,SD,46,45,37,US President,"Romney, Mitt",republican,FALSE,210610,363815,20171015,NA
+2012,South Dakota,SD,46,45,37,US President,"Obama, Barack H.",democrat,FALSE,145039,363815,20171015,NA
+2012,South Dakota,SD,46,45,37,US President,"Johnson, Gary",libertarian,FALSE,5795,363815,20171015,NA
+2012,South Dakota,SD,46,45,37,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2371,363815,20171015,NA
+2012,Tennessee,TN,47,62,54,US President,"Romney, Mitt",republican,FALSE,1462330,2458577,20171015,NA
+2012,Tennessee,TN,47,62,54,US President,"Obama, Barack H.",democrat,FALSE,960709,2458577,20171015,NA
+2012,Tennessee,TN,47,62,54,US President,,independent,FALSE,23001,2458577,20171015,NA
+2012,Tennessee,TN,47,62,54,US President,"Stein, Jill",green,FALSE,6515,2458577,20171015,NA
+2012,Tennessee,TN,47,62,54,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,6022,2458577,20171015,NA
+2012,Texas,TX,48,74,49,US President,"Romney, Mitt",republican,FALSE,4569843,7993851,20171015,NA
+2012,Texas,TX,48,74,49,US President,"Obama, Barack H.",democrat,FALSE,3308124,7993851,20171015,NA
+2012,Texas,TX,48,74,49,US President,"Johnson, Gary",libertarian,FALSE,88580,7993851,20171015,NA
+2012,Texas,TX,48,74,49,US President,"Stein, Jill",green,FALSE,24657,7993851,20171015,NA
+2012,Texas,TX,48,74,49,US President,,,TRUE,2647,7993851,20171015,NA
+2012,Utah,UT,49,87,67,US President,"Romney, Mitt",republican,FALSE,740600,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,"Obama, Barack H.",democrat,FALSE,251813,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,"Johnson, Gary",libertarian,FALSE,12572,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,5335,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,"Stein, Jill",green,FALSE,3817,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2871,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,,no party affiliation,FALSE,393,1017440,20171015,NA
+2012,Utah,UT,49,87,67,US President,,,TRUE,39,1017440,20171015,NA
+2012,Vermont,VT,50,13,6,US President,"Obama, Barack H.",democrat,FALSE,199239,299290,20171015,NA
+2012,Vermont,VT,50,13,6,US President,"Romney, Mitt",republican,FALSE,92698,299290,20171015,NA
+2012,Vermont,VT,50,13,6,US President,"Johnson, Gary",libertarian,FALSE,3487,299290,20171015,NA
+2012,Vermont,VT,50,13,6,US President,,,TRUE,2043,299290,20171015,NA
+2012,Vermont,VT,50,13,6,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1128,299290,20171015,NA
+2012,Vermont,VT,50,13,6,US President,"Lindsay, Peta",socialism and liberation party,FALSE,695,299290,20171015,NA
+2012,Virginia,VA,51,54,40,US President,"Obama, Barack H.",democrat,FALSE,1971820,3854489,20171015,NA
+2012,Virginia,VA,51,54,40,US President,"Romney, Mitt",republican,FALSE,1822522,3854489,20171015,NA
+2012,Virginia,VA,51,54,40,US President,"Johnson, Gary",libertarian,FALSE,31216,3854489,20171015,NA
+2012,Virginia,VA,51,54,40,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,13058,3854489,20171015,NA
+2012,Virginia,VA,51,54,40,US President,"Stein, Jill",green,FALSE,8627,3854489,20171015,NA
+2012,Virginia,VA,51,54,40,US President,,,TRUE,7246,3854489,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Obama, Barack H.",democrat,FALSE,1755396,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Mitt, Romney",republican,FALSE,1290670,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Johnson, Gary",libertarian,FALSE,42202,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Stein, Jill",green,FALSE,20928,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,8851,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,4946,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Lindsay, Peta",socialism and liberation party,FALSE,1318,3125516,20171015,NA
+2012,Washington,WA,53,91,73,US President,"Harris, James",socialist workers,FALSE,1205,3125516,20171015,NA
+2012,West Virginia,WV,54,55,56,US President,"Romney, Mitt",republican,FALSE,417655,670438,20171015,NA
+2012,West Virginia,WV,54,55,56,US President,"Obama, Barack H.",democrat,FALSE,238269,670438,20171015,NA
+2012,West Virginia,WV,54,55,56,US President,"Johnson, Gary",libertarian,FALSE,6302,670438,20171015,NA
+2012,West Virginia,WV,54,55,56,US President,"Stein, Jill",mountain party,FALSE,4406,670438,20171015,NA
+2012,West Virginia,WV,54,55,56,US President,,no party affiliation,FALSE,3806,670438,20171015,NA
+2012,Wisconsin,WI,55,35,25,US President,"Obama, Barack H.",democrat,FALSE,1620985,3071434,20171015,NA
+2012,Wisconsin,WI,55,35,25,US President,"Romney, Mitt",republican,FALSE,1410966,3071434,20171015,NA
+2012,Wisconsin,WI,55,35,25,US President,,independent,FALSE,29383,3071434,20171015,NA
+2012,Wisconsin,WI,55,35,25,US President,Scattering,,FALSE,5170,3071434,20171015,NA
+2012,Wisconsin,WI,55,35,25,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,4930,3071434,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,"Romney, Mitt",republican,FALSE,170962,250701,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,"Obama, Barack H.",democrat,FALSE,69286,250701,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,"Johnson, Gary",libertarian,FALSE,5326,250701,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,,,TRUE,2035,250701,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,1452,250701,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,Blank Vote,,FALSE,1367,250701,20171015,NA
+2012,Wyoming,WY,56,83,68,US President,Over Vote,,FALSE,273,250701,20171015,NA
+2016,Alabama,AL,1,63,41,US President,"Trump, Donald J.",republican,FALSE,1318255,2123372,20171015,NA
+2016,Alabama,AL,1,63,41,US President,"Clinton, Hillary",democrat,FALSE,729547,2123372,20171015,NA
+2016,Alabama,AL,1,63,41,US President,"Johnson, Gary",libertarian,FALSE,44467,2123372,20171015,NA
+2016,Alabama,AL,1,63,41,US President,,,TRUE,21712,2123372,20171015,NA
+2016,Alabama,AL,1,63,41,US President,"Stein, Jill",green,FALSE,9391,2123372,20171015,NA
+2016,Alaska,AK,2,94,81,US President,"Trump, Donald J.",republican,FALSE,163387,318608,20171015,NA
+2016,Alaska,AK,2,94,81,US President,"Clinton, Hillary",democrat,FALSE,116454,318608,20171015,NA
+2016,Alaska,AK,2,94,81,US President,"Johnson, Gary",libertarian,FALSE,18725,318608,20171015,NA
+2016,Alaska,AK,2,94,81,US President,,,TRUE,9201,318608,20171015,NA
+2016,Alaska,AK,2,94,81,US President,"Stein, Jill",green,FALSE,5735,318608,20171015,NA
+2016,Alaska,AK,2,94,81,US President,"Castle, Darrell L.",constitution party,FALSE,3866,318608,20171015,NA
+2016,Alaska,AK,2,94,81,US President,"De La Fuente, Roque """"Rocky""""",no party affiliation,FALSE,1240,318608,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"Trump, Donald J.",republican,FALSE,1252401,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"Clinton, Hillary",democrat,FALSE,1161167,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"Johnson, Gary",libertarian,FALSE,106327,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"Stein, Jill",green,FALSE,34345,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,,independent,TRUE,17473,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"Castle, Darrell L.",constitution party,TRUE,1058,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,,no party affiliation,TRUE,311,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,,democrat,TRUE,42,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"De La Fuente, Roque """"Rocky""""",american delta party,TRUE,29,2573165,20171015,NA
+2016,Arizona,AZ,4,86,61,US President,"Tittle, Sheila """"Samm""""",we the people,TRUE,12,2573165,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Trump, Donald J.",republican,FALSE,684872,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Clinton, Hillary",democrat,FALSE,380494,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Johnson, Gary",libertarian,FALSE,29829,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"McMullin, Evan",better for america,FALSE,13255,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Stein, Jill",green,FALSE,9473,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Hedges, Jim",prohibition,FALSE,4709,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Castle, Darrell L.",constitution party,FALSE,4613,1130635,20171015,NA
+2016,Arkansas,AR,5,71,42,US President,"Kahn, Lynn S.",independent,FALSE,3390,1130635,20171015,NA
+2016,California,CA,6,93,71,US President,"Clinton, Hillary",democrat,FALSE,8753788,14181595,20171015,NA
+2016,California,CA,6,93,71,US President,"Trump, Donald J.",republican,FALSE,4483810,14181595,20171015,NA
+2016,California,CA,6,93,71,US President,"Johnson, Gary",libertarian,FALSE,478500,14181595,20171015,NA
+2016,California,CA,6,93,71,US President,"Stein, Jill",green,FALSE,278657,14181595,20171015,NA
+2016,California,CA,6,93,71,US President,,,TRUE,120739,14181595,20171015,NA
+2016,California,CA,6,93,71,US President,"La Riva, Gloria Estella",peace & freedom,FALSE,66101,14181595,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Clinton, Hillary",democrat,FALSE,1338870,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Trump, Donald J.",republican,FALSE,1202484,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Johnson, Gary",libertarian,FALSE,144121,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Stein, Jill",green,FALSE,38437,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,Scattering,unaffiliated,FALSE,31485,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Castle, Darrell L.",american constitution party,FALSE,11699,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Keniston, Chris",veterans party of america,FALSE,5028,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1255,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Kopitke, Kyle Kenley",independent american,FALSE,1096,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Maldonado, Joseph Allen",independent people of colorado,FALSE,872,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Maturen, Michael A.",american solidarity party,FALSE,862,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Silva, Rod",nutrition party,FALSE,751,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Hoefling, Tom",america's party,FALSE,710,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,531,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Kennedy, Alyson",socialist workers,FALSE,452,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Kotlikoff, Laurence",kotlikoff for president,FALSE,392,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Lyttle, Bradford",nonviolent resistance/pacifist,FALSE,382,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Atwood, Frank",approval voting party,FALSE,337,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Emidio """"Mimi"""", Soltysik",socialist party usa,FALSE,271,2780220,20171015,NA
+2016,Colorado,CO,8,84,62,US President,"Hedges, James",prohibition,FALSE,185,2780220,20171015,NA
+2016,Connecticut,CT,9,16,1,US President,"Clinton, Hillary",democrat,FALSE,897572,1644920,20171015,NA
+2016,Connecticut,CT,9,16,1,US President,"Trump, Donald J.",republican,FALSE,673215,1644920,20171015,NA
+2016,Connecticut,CT,9,16,1,US President,"Johnson, Gary",libertarian,FALSE,48676,1644920,20171015,NA
+2016,Connecticut,CT,9,16,1,US President,"Stein, Jill",green,FALSE,22841,1644920,20171015,NA
+2016,Connecticut,CT,9,16,1,US President,,,TRUE,2616,1644920,20171015,NA
+2016,Delaware,DE,10,51,11,US President,"Clinton, Hillary",democrat,FALSE,235603,441590,20171015,NA
+2016,Delaware,DE,10,51,11,US President,"Trump, Donald J.",republican,FALSE,185127,441590,20171015,NA
+2016,Delaware,DE,10,51,11,US President,"Johnson, Gary",libertarian,FALSE,14757,441590,20171015,NA
+2016,Delaware,DE,10,51,11,US President,"Stein, Jill",green,FALSE,6103,441590,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,"Clinton, Hillary",democrat,FALSE,282830,312575,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,"Trump, Donald J.",republican,FALSE,12723,312575,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,,,TRUE,6551,312575,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,"Johnson, Gary",libertarian,FALSE,4906,312575,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,"Stein, Jill",green,FALSE,4258,312575,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,Blank Vote,,FALSE,1064,312575,20171015,NA
+2016,District of Columbia,DC,11,53,55,US President,Over Vote,,FALSE,243,312575,20171015,NA
+2016,Florida,FL,12,59,43,US President,"Trump, Donald J.",republican,FALSE,4617886,9420039,20171015,NA
+2016,Florida,FL,12,59,43,US President,"Clinton, Hillary",democrat,FALSE,4504975,9420039,20171015,NA
+2016,Florida,FL,12,59,43,US President,"Johnson, Gary",libertarian,FALSE,207043,9420039,20171015,NA
+2016,Florida,FL,12,59,43,US President,"Stein, Jill",green,FALSE,64399,9420039,20171015,NA
+2016,Florida,FL,12,59,43,US President,"Castle, Darrell L.",constitution party,FALSE,16475,9420039,20171015,NA
+2016,Florida,FL,12,59,43,US President,"De La Fuente, Roque """"Rocky""""",reform party,FALSE,9108,9420039,20171015,NA
+2016,Florida,FL,12,59,43,US President,,,TRUE,153,9420039,20171015,NA
+2016,Georgia,GA,13,58,44,US President,"Trump, Donald J.",republican,FALSE,2089104,4114732,20171015,NA
+2016,Georgia,GA,13,58,44,US President,"Clinton, Hillary",democrat,FALSE,1877963,4114732,20171015,NA
+2016,Georgia,GA,13,58,44,US President,"Johnson, Gary",libertarian,FALSE,125306,4114732,20171015,NA
+2016,Georgia,GA,13,58,44,US President,,,TRUE,22359,4114732,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,"Clinton, Hillary",democrat,FALSE,266891,437664,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,"Trump, Donald J.",republican,FALSE,128847,437664,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,"Johnson, Gary",libertarian,FALSE,15954,437664,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,"Stein, Jill",green,FALSE,12737,437664,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,Blank Vote,,FALSE,8289,437664,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,"Castle, Darrell L.",constitution party,FALSE,4508,437664,20171015,NA
+2016,Hawaii,HI,15,95,82,US President,Over Vote,,FALSE,438,437664,20171015,NA
+2016,Idaho,ID,16,82,63,US President,"Trump, Donald J.",republican,FALSE,409055,690255,20171015,NA
+2016,Idaho,ID,16,82,63,US President,"Clinton, Hillary",democrat,FALSE,189765,690255,20171015,NA
+2016,Idaho,ID,16,82,63,US President,"McMullin, Evan",independent,FALSE,60748,690255,20171015,NA
+2016,Idaho,ID,16,82,63,US President,"Johnson, Gary",libertarian,FALSE,28331,690255,20171015,NA
+2016,Idaho,ID,16,82,63,US President,"Castle, Darrell L.",constitution party,FALSE,2356,690255,20171015,NA
+2016,Illinois,IL,17,33,21,US President,"Clinton, Hillary",democrat,FALSE,3090729,5536424,20171015,NA
+2016,Illinois,IL,17,33,21,US President,"Trump, Donald J.",republican,FALSE,2146015,5536424,20171015,NA
+2016,Illinois,IL,17,33,21,US President,"Johnson, Gary",libertarian,FALSE,209596,5536424,20171015,NA
+2016,Illinois,IL,17,33,21,US President,"Stein, Jill",green,FALSE,76802,5536424,20171015,NA
+2016,Illinois,IL,17,33,21,US President,,,TRUE,13282,5536424,20171015,NA
+2016,Indiana,IN,18,32,22,US President,"Trump, Donald J.",republican,FALSE,1557286,2734958,20171015,NA
+2016,Indiana,IN,18,32,22,US President,"Clinton, Hillary",democrat,FALSE,1033126,2734958,20171015,NA
+2016,Indiana,IN,18,32,22,US President,"Johnson, Gary",libertarian,FALSE,133993,2734958,20171015,NA
+2016,Indiana,IN,18,32,22,US President,,green,TRUE,7841,2734958,20171015,NA
+2016,Indiana,IN,18,32,22,US President,"Castle, Darrell L.",constitution party,TRUE,1937,2734958,20171015,NA
+2016,Indiana,IN,18,32,22,US President,,independent,TRUE,718,2734958,20171015,NA
+2016,Indiana,IN,18,32,22,US President,"Emidio """"Mimi"""", Soltysik",socialist party usa,TRUE,57,2734958,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Trump, Donald J.",republican,FALSE,800983,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Clinton, Hillary",democrat,FALSE,653669,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Johnson, Gary",libertarian,FALSE,59186,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,,,TRUE,17746,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"McMullin, Evan",nominated by petition,FALSE,12366,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Stein, Jill",green,FALSE,11479,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Castle, Darrell L.",constitution party,FALSE,5335,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Kahn, Lynn S.",new independent party iowa,FALSE,2247,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"Vacek, Dan",legal marijuana now,FALSE,2246,1565580,20171015,NA
+2016,Iowa,IA,19,42,31,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,323,1565580,20171015,NA
+2016,Kansas,KS,20,47,32,US President,"Trump, Donald J.",republican,FALSE,671018,1184402,20171015,NA
+2016,Kansas,KS,20,47,32,US President,"Clinton, Hillary",democrat,FALSE,427005,1184402,20171015,NA
+2016,Kansas,KS,20,47,32,US President,"Johnson, Gary",libertarian,FALSE,55406,1184402,20171015,NA
+2016,Kansas,KS,20,47,32,US President,"Stein, Jill",independent,FALSE,23506,1184402,20171015,NA
+2016,Kansas,KS,20,47,32,US President,,,TRUE,7467,1184402,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,"Trump, Donald J.",republican,FALSE,1202971,1924149,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,"Clinton, Hillary",democrat,FALSE,628854,1924149,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,"Johnson, Gary",libertarian,FALSE,53752,1924149,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,"McMullin, Evan",independent,FALSE,22780,1924149,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,"Stein, Jill",green,FALSE,13913,1924149,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1128,1924149,20171015,NA
+2016,Kentucky,KY,21,61,51,US President,,,TRUE,751,1924149,20171015,NA
+2016,Louisiana,LA,22,72,45,US President,"Trump, Donald J.",republican,FALSE,1178638,2029032,20171015,NA
+2016,Louisiana,LA,22,72,45,US President,"Clinton, Hillary",democrat,FALSE,780154,2029032,20171015,NA
+2016,Louisiana,LA,22,72,45,US President,"Johnson, Gary",libertarian,FALSE,37978,2029032,20171015,NA
+2016,Louisiana,LA,22,72,45,US President,Other,,FALSE,18231,2029032,20171015,NA
+2016,Louisiana,LA,22,72,45,US President,"Stein, Jill",green,FALSE,14031,2029032,20171015,NA
+2016,Maine,ME,23,11,2,US President,"Clinton, Hillary",democrat,FALSE,357735,771892,20171015,NA
+2016,Maine,ME,23,11,2,US President,"Trump, Donald J.",republican,FALSE,335593,771892,20171015,NA
+2016,Maine,ME,23,11,2,US President,"Johnson, Gary",libertarian,FALSE,38105,771892,20171015,NA
+2016,Maine,ME,23,11,2,US President,Blank Vote,,FALSE,23965,771892,20171015,NA
+2016,Maine,ME,23,11,2,US President,"Stein, Jill",green,FALSE,14251,771892,20171015,NA
+2016,Maine,ME,23,11,2,US President,,unenrolled,FALSE,2243,771892,20171015,NA
+2016,Maryland,MD,24,52,52,US President,"Clinton, Hillary",democrat,FALSE,1677928,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,"Trump, Donald J.",republican,FALSE,943169,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,"Johnson, Gary",libertarian,FALSE,79605,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,"Stein, Jill",green,FALSE,35945,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,,,TRUE,33263,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,Other,,TRUE,10921,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,,no party affiliation,TRUE,278,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,"Trump, Donald J.",republican,TRUE,259,2781446,20171015,NA
+2016,Maryland,MD,24,52,52,US President,"Clinton, Hillary",democrat,TRUE,78,2781446,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,"Clinton, Hillary",democrat,FALSE,1995196,3378821,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,"Trump, Donald J.",republican,FALSE,1090893,3378821,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,"Johnson, Gary",libertarian,FALSE,138018,3378821,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,Blank Vote,,FALSE,53775,3378821,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,Other,,FALSE,50488,3378821,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,"Stein, Jill",green,FALSE,47661,3378821,20171015,NA
+2016,Massachusetts,MA,25,14,3,US President,,,TRUE,2790,3378821,20171015,NA
+2016,Michigan,MI,26,34,23,US President,"Trump, Donald J.",republican,FALSE,2279543,4799284,20171015,NA
+2016,Michigan,MI,26,34,23,US President,"Clinton, Hillary",democrat,FALSE,2268839,4799284,20171015,NA
+2016,Michigan,MI,26,34,23,US President,"Johnson, Gary",libertarian,FALSE,172136,4799284,20171015,NA
+2016,Michigan,MI,26,34,23,US President,"Stein, Jill",green,FALSE,51463,4799284,20171015,NA
+2016,Michigan,MI,26,34,23,US President,"Castle, Darrell L.",u.s. taxpayers party,FALSE,16139,4799284,20171015,NA
+2016,Michigan,MI,26,34,23,US President,,,TRUE,8955,4799284,20171015,NA
+2016,Michigan,MI,26,34,23,US President,"Emidio """"Mimi"""", Soltysik",natural law,FALSE,2209,4799284,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Clinton, Hillary",democrat,FALSE,1367705,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Trump, Donald J.",republican,FALSE,1322949,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Johnson, Gary",libertarian,FALSE,112972,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"McMullin, Evan",independence,FALSE,53075,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Stein, Jill",green,FALSE,36986,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,,,TRUE,27247,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Vacek, Dan",legal marijuana now,FALSE,11291,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Castle, Darrell L.",constitution party,FALSE,9456,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"Kennedy, Alyson",socialist workers,FALSE,1671,2944782,20171015,NA
+2016,Minnesota,MN,27,41,33,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1430,2944782,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"Trump, Donald J.",republican,FALSE,700714,1209357,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"Clinton, Hillary",democrat,FALSE,485131,1209357,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"Johnson, Gary",libertarian,FALSE,14435,1209357,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"Castle, Darrell L.",constitution party,FALSE,3987,1209357,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"Stein, Jill",green,FALSE,3731,1209357,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"Hedges, James",prohibition,FALSE,715,1209357,20171015,NA
+2016,Mississippi,MS,28,64,46,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,644,1209357,20171015,NA
+2016,Missouri,MO,29,43,34,US President,"Trump, Donald J.",republican,FALSE,1594511,2808605,20171015,NA
+2016,Missouri,MO,29,43,34,US President,"Clinton, Hillary",democrat,FALSE,1071068,2808605,20171015,NA
+2016,Missouri,MO,29,43,34,US President,"Johnson, Gary",libertarian,FALSE,97359,2808605,20171015,NA
+2016,Missouri,MO,29,43,34,US President,"Stein, Jill",green,FALSE,25419,2808605,20171015,NA
+2016,Missouri,MO,29,43,34,US President,"Castle, Darrell L.",constitution party,FALSE,13092,2808605,20171015,NA
+2016,Missouri,MO,29,43,34,US President,,,TRUE,7156,2808605,20171015,NA
+2016,Montana,MT,30,81,64,US President,"Trump, Donald J.",republican,FALSE,279240,494526,20171015,NA
+2016,Montana,MT,30,81,64,US President,"Clinton, Hillary",democrat,FALSE,177709,494526,20171015,NA
+2016,Montana,MT,30,81,64,US President,"Johnson, Gary",libertarian,FALSE,28037,494526,20171015,NA
+2016,Montana,MT,30,81,64,US President,"Stein, Jill",green,FALSE,7970,494526,20171015,NA
+2016,Montana,MT,30,81,64,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1570,494526,20171015,NA
+2016,Nebraska,NE,31,46,35,US President,"Trump, Donald J.",republican,FALSE,495961,844227,20171015,NA
+2016,Nebraska,NE,31,46,35,US President,"Clinton, Hillary",democrat,FALSE,284494,844227,20171015,NA
+2016,Nebraska,NE,31,46,35,US President,"Johnson, Gary",libertarian,FALSE,38946,844227,20171015,NA
+2016,Nebraska,NE,31,46,35,US President,,,TRUE,16051,844227,20171015,NA
+2016,Nebraska,NE,31,46,35,US President,"Stein, Jill",nominated by petition,FALSE,8775,844227,20171015,NA
+2016,Nevada,NV,32,88,65,US President,"Clinton, Hillary",democrat,FALSE,539260,1125385,20171015,NA
+2016,Nevada,NV,32,88,65,US President,"Trump, Donald J.",republican,FALSE,512058,1125385,20171015,NA
+2016,Nevada,NV,32,88,65,US President,"Johnson, Gary",libertarian,FALSE,37384,1125385,20171015,NA
+2016,Nevada,NV,32,88,65,US President,None Of The Above,,FALSE,28863,1125385,20171015,NA
+2016,Nevada,NV,32,88,65,US President,"Kopitke, Kyle Kenley",independent american,FALSE,5268,1125385,20171015,NA
+2016,Nevada,NV,32,88,65,US President,"De La Fuente, Roque """"Rocky""""",no party affiliation,FALSE,2552,1125385,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,"Clinton, Hillary",democrat,FALSE,348526,744296,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,"Trump, Donald J.",republican,FALSE,345790,744296,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,"Johnson, Gary",libertarian,FALSE,30777,744296,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,,,TRUE,9618,744296,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,"Stein, Jill",green,FALSE,6496,744296,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,Scattering,,TRUE,2411,744296,20171015,NA
+2016,New Hampshire,NH,33,12,4,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,678,744296,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Clinton, Hillary",democrat,FALSE,2148278,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Trump, Donald J.",republican,FALSE,1601933,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Johnson, Gary",libertarian,FALSE,72477,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Stein, Jill",green,FALSE,37772,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Castle, Darrell L.",constitution party,FALSE,6161,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Kennedy, Alyson",socialist workers,FALSE,2156,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1838,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"Moorehead, Monica",workers world party,FALSE,1749,3874046,20171015,NA
+2016,New Jersey,NJ,34,22,12,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1682,3874046,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"Clinton, Hillary",democrat,FALSE,385234,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"Trump, Donald J.",republican,FALSE,319667,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"Johnson, Gary",libertarian,FALSE,74541,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"Stein, Jill",green,FALSE,9879,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"McMullin, Evan",better for america,FALSE,5825,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"Castle, Darrell L.",constitution party,FALSE,1514,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1184,798319,20171015,NA
+2016,New Mexico,NM,35,85,66,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,475,798319,20171015,NA
+2016,New York,NY,36,21,13,US President,"Clinton, Hillary",democrat,FALSE,4379789,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Trump, Donald J.",republican,FALSE,2527142,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Trump, Donald J.",conservative,FALSE,292392,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Clinton, Hillary",working families,FALSE,140041,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Johnson, Gary",independence,FALSE,119156,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Stein, Jill",green,FALSE,107934,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,Blank Vote,,FALSE,77179,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Johnson, Gary",libertarian,FALSE,57442,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,Scattering,,FALSE,48447,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,"Clinton, Hillary",women's equality,FALSE,36294,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,,,TRUE,12816,7802084,20171015,NA
+2016,New York,NY,36,21,13,US President,Void Vote,,FALSE,3452,7802084,20171015,NA
+2016,North Carolina,NC,37,56,47,US President,"Trump, Donald J.",republican,FALSE,2362631,4741564,20171015,NA
+2016,North Carolina,NC,37,56,47,US President,"Clinton, Hillary",democrat,FALSE,2189316,4741564,20171015,NA
+2016,North Carolina,NC,37,56,47,US President,"Johnson, Gary",libertarian,FALSE,130126,4741564,20171015,NA
+2016,North Carolina,NC,37,56,47,US President,Scattering,,TRUE,47386,4741564,20171015,NA
+2016,North Carolina,NC,37,56,47,US President,,,TRUE,12105,4741564,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,"Trump, Donald J.",republican,FALSE,216794,344360,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,"Clinton, Hillary",democrat,FALSE,93758,344360,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,"Johnson, Gary",libertarian,FALSE,21434,344360,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,,,TRUE,6397,344360,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,"Stein, Jill",green,FALSE,3780,344360,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,"Castle, Darrell L.",constitution party,FALSE,1833,344360,20171015,NA
+2016,North Dakota,ND,38,44,36,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,364,344360,20171015,NA
+2016,Ohio,OH,39,31,24,US President,"Trump, Donald J.",republican,FALSE,2841005,5496487,20171015,NA
+2016,Ohio,OH,39,31,24,US President,"Clinton, Hillary",democrat,FALSE,2394164,5496487,20171015,NA
+2016,Ohio,OH,39,31,24,US President,,no party affiliation,FALSE,198733,5496487,20171015,NA
+2016,Ohio,OH,39,31,24,US President,"Stein, Jill",green,FALSE,46271,5496487,20171015,NA
+2016,Ohio,OH,39,31,24,US President,,,TRUE,16314,5496487,20171015,NA
+2016,Oklahoma,OK,40,73,53,US President,"Trump, Donald J.",republican,FALSE,949136,1452992,20171015,NA
+2016,Oklahoma,OK,40,73,53,US President,"Clinton, Hillary",democrat,FALSE,420375,1452992,20171015,NA
+2016,Oklahoma,OK,40,73,53,US President,"Johnson, Gary",libertarian,FALSE,83481,1452992,20171015,NA
+2016,Oregon,OR,41,92,72,US President,"Clinton, Hillary",democrat,FALSE,1002106,2001336,20171015,NA
+2016,Oregon,OR,41,92,72,US President,"Trump, Donald J.",republican,FALSE,782403,2001336,20171015,NA
+2016,Oregon,OR,41,92,72,US President,"Johnson, Gary",libertarian,FALSE,94231,2001336,20171015,NA
+2016,Oregon,OR,41,92,72,US President,Other,,FALSE,72594,2001336,20171015,NA
+2016,Oregon,OR,41,92,72,US President,"Stein, Jill",green,FALSE,50002,2001336,20171015,NA
+2016,Pennsylvania,PA,42,23,14,US President,"Trump, Donald J.",republican,FALSE,2970733,6115402,20171015,NA
+2016,Pennsylvania,PA,42,23,14,US President,"Clinton, Hillary",democrat,FALSE,2926441,6115402,20171015,NA
+2016,Pennsylvania,PA,42,23,14,US President,"Johnson, Gary",libertarian,FALSE,146715,6115402,20171015,NA
+2016,Pennsylvania,PA,42,23,14,US President,"Stein, Jill",green,FALSE,49941,6115402,20171015,NA
+2016,Pennsylvania,PA,42,23,14,US President,"Castle, Darrell L.",constitution party,FALSE,21572,6115402,20171015,NA
+2016,Rhode Island,RI,44,15,5,US President,"Clinton, Hillary",democrat,FALSE,252525,464144,20171015,NA
+2016,Rhode Island,RI,44,15,5,US President,"Trump, Donald J.",republican,FALSE,180543,464144,20171015,NA
+2016,Rhode Island,RI,44,15,5,US President,"Johnson, Gary",libertarian,FALSE,14746,464144,20171015,NA
+2016,Rhode Island,RI,44,15,5,US President,,,TRUE,9439,464144,20171015,NA
+2016,Rhode Island,RI,44,15,5,US President,"Stein, Jill",green,FALSE,6220,464144,20171015,NA
+2016,Rhode Island,RI,44,15,5,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,671,464144,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"Trump, Donald J.",republican,FALSE,1155389,2103027,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"Clinton, Hillary",democrat,FALSE,855373,2103027,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"Johnson, Gary",libertarian,FALSE,49204,2103027,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"McMullin, Evan",independence,FALSE,21016,2103027,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"Stein, Jill",green,FALSE,13034,2103027,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"Castle, Darrell L.",constitution party,FALSE,5765,2103027,20171015,NA
+2016,South Carolina,SC,45,57,48,US President,"Skewes, Peter",american,FALSE,3246,2103027,20171015,NA
+2016,South Dakota,SD,46,45,37,US President,"Trump, Donald J.",republican,FALSE,227721,370093,20171015,NA
+2016,South Dakota,SD,46,45,37,US President,"Clinton, Hillary",democrat,FALSE,117458,370093,20171015,NA
+2016,South Dakota,SD,46,45,37,US President,"Johnson, Gary",libertarian,FALSE,20850,370093,20171015,NA
+2016,South Dakota,SD,46,45,37,US President,"Castle, Darrell L.",constitution party,FALSE,4064,370093,20171015,NA
+2016,Tennessee,TN,47,62,54,US President,"Trump, Donald J.",republican,FALSE,1522925,2508027,20171015,NA
+2016,Tennessee,TN,47,62,54,US President,"Clinton, Hillary",democrat,FALSE,870695,2508027,20171015,NA
+2016,Tennessee,TN,47,62,54,US President,,independent,FALSE,100618,2508027,20171015,NA
+2016,Tennessee,TN,47,62,54,US President,,,TRUE,13789,2508027,20171015,NA
+2016,Texas,TX,48,74,49,US President,"Trump, Donald J.",republican,FALSE,4685047,8969226,20171015,NA
+2016,Texas,TX,48,74,49,US President,"Clinton, Hillary",democrat,FALSE,3877868,8969226,20171015,NA
+2016,Texas,TX,48,74,49,US President,"Johnson, Gary",libertarian,FALSE,283492,8969226,20171015,NA
+2016,Texas,TX,48,74,49,US President,"Stein, Jill",green,FALSE,71558,8969226,20171015,NA
+2016,Texas,TX,48,74,49,US President,,,TRUE,51261,8969226,20171015,NA
+2016,Utah,UT,49,87,67,US President,"Trump, Donald J.",republican,FALSE,515211,1131317,20171015,NA
+2016,Utah,UT,49,87,67,US President,"Clinton, Hillary",democrat,FALSE,310674,1131317,20171015,NA
+2016,Utah,UT,49,87,67,US President,"McMullin, Evan",no party affiliation,FALSE,255060,1131317,20171015,NA
+2016,Utah,UT,49,87,67,US President,"Johnson, Gary",libertarian,FALSE,39608,1131317,20171015,NA
+2016,Utah,UT,49,87,67,US President,"Castle, Darrell L.",constitution party,FALSE,8032,1131317,20171015,NA
+2016,Utah,UT,49,87,67,US President,"Kopitke, Kyle Kenley",independent american,FALSE,2732,1131317,20171015,NA
+2016,Vermont,VT,50,13,6,US President,"Clinton, Hillary",democrat,FALSE,178573,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,"Trump, Donald J.",republican,FALSE,95369,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,,,TRUE,22899,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,"Johnson, Gary",libertarian,FALSE,10078,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,"Stein, Jill",green,FALSE,6758,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,Blank Vote,,FALSE,4574,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,"De La Fuente, Roque """"Rocky""""",independent,FALSE,1063,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,Void Vote,,FALSE,826,320467,20171015,NA
+2016,Vermont,VT,50,13,6,US President,"La Riva, Gloria Estella",liberty union party,FALSE,327,320467,20171015,NA
+2016,Virginia,VA,51,54,40,US President,"Clinton, Hillary",democrat,FALSE,1981473,3982752,20171015,NA
+2016,Virginia,VA,51,54,40,US President,"Trump, Donald J.",republican,FALSE,1769443,3982752,20171015,NA
+2016,Virginia,VA,51,54,40,US President,"Johnson, Gary",libertarian,FALSE,118274,3982752,20171015,NA
+2016,Virginia,VA,51,54,40,US President,"McMullin, Evan",independent,FALSE,54054,3982752,20171015,NA
+2016,Virginia,VA,51,54,40,US President,,,TRUE,31870,3982752,20171015,NA
+2016,Virginia,VA,51,54,40,US President,"Stein, Jill",green,FALSE,27638,3982752,20171015,NA
+2016,Washington,WA,53,91,73,US President,"Clinton, Hillary",democrat,FALSE,1742718,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,"Trump, Donald J.",republican,FALSE,1221747,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,"Johnson, Gary",libertarian,FALSE,160879,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,,,TRUE,107805,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,"Stein, Jill",green,FALSE,58417,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,"Castle, Darrell L.",constitution party,FALSE,17623,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,"Kennedy, Alyson",socialist workers,FALSE,4307,3317019,20171015,NA
+2016,Washington,WA,53,91,73,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,3523,3317019,20171015,NA
+2016,West Virginia,WV,54,55,56,US President,"Trump, Donald J.",republican,FALSE,489371,713051,20171015,NA
+2016,West Virginia,WV,54,55,56,US President,"Clinton, Hillary",democrat,FALSE,188794,713051,20171015,NA
+2016,West Virginia,WV,54,55,56,US President,"Johnson, Gary",libertarian,FALSE,23004,713051,20171015,NA
+2016,West Virginia,WV,54,55,56,US President,"Stein, Jill",green,FALSE,8075,713051,20171015,NA
+2016,West Virginia,WV,54,55,56,US President,"Castle, Darrell L.",constitution party,FALSE,3807,713051,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"Trump, Donald J.",republican,FALSE,1405284,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"Clinton, Hillary",democrat,FALSE,1382536,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"Johnson, Gary",libertarian,FALSE,106674,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"Stein, Jill",green,FALSE,31072,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,Scattering,,FALSE,22764,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,,,TRUE,12386,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"Castle, Darrell L.",constitution party,FALSE,12162,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"Moorehead, Monica",workers world party,FALSE,1770,2976150,20171015,NA
+2016,Wisconsin,WI,55,35,25,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1502,2976150,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,"Trump, Donald J.",republican,FALSE,174419,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,"Clinton, Hillary",democrat,FALSE,55973,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,"Johnson, Gary",libertarian,FALSE,13287,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,,,TRUE,6904,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,,independent,FALSE,3224,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,Blank Vote,,FALSE,2661,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,"Castle, Darrell L.",constitution party,FALSE,2042,258788,20171015,NA
+2016,Wyoming,WY,56,83,68,US President,Over Vote,,FALSE,278,258788,20171015,NA
