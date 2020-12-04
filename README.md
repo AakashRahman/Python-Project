@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Project: Analysis and gain a deeper understanding of Polls and Polling:
 By compiling the national polling data from the past 3 Presidential Elections starting with 2008, we
 can, with a high degree of accuracy & certainty, predict the winner in almost all 50 states. This can
 be done consistently, within a +-5 point margin of error. We will convey these findings utilizing both
